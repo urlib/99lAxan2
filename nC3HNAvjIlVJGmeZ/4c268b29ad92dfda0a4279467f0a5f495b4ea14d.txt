@@ -1,0 +1,2186 @@
+[2019-12-09 14:09:38] ShadowsocksR started on port 1080
+[2019-12-09 14:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 14:10:06] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:10:09] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:10:09] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:10:09] [Info] Connect google.com:80
+[2019-12-09 14:10:09] [Info] Connect www.google.com:80
+[2019-12-09 14:10:10] [Info] Connect www.google.com:443
+[2019-12-09 14:10:10] [Info] Disconnect google.com:80
+[2019-12-09 14:10:10] [Info] Disconnect www.google.com:80
+[2019-12-09 14:10:10] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 14:10:10] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 14:10:10] [Info] Connect clients1.google.com:443
+[2019-12-09 14:10:11] [Info] Connect apis.google.com:443
+[2019-12-09 14:10:11] [Info] Connect ogs.google.com:443
+[2019-12-09 14:10:11] [Info] Connect www.google.com.hk:443
+[2019-12-09 14:10:11] [Info] Direct connect adservice.google.com:443
+[2019-12-09 14:10:12] [Info] Connect play.google.com:443
+[2019-12-09 14:10:15] [Info] Direct connect clientservices.googleapis.com:443
+[2019-12-09 14:10:59] [Info] Connect video.trontv.com:443
+[2019-12-09 14:10:59] [Info] Connect video.trontv.com:443
+[2019-12-09 14:10:59] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:00] [Info] Connect code.jquery.com:443
+[2019-12-09 14:11:00] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:00] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:00] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:11:00] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:11:10] [Info] Disconnect code.jquery.com:443
+[2019-12-09 14:11:28] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:29] [Info] Connect ajax.googleapis.com:80
+[2019-12-09 14:11:29] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:29] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 14:11:29] [Info] Disconnect ajax.googleapis.com:80
+[2019-12-09 14:11:29] [Info] Connect static.ap.bittorrent.com:80
+[2019-12-09 14:11:29] [Info] Disconnect static.ap.bittorrent.com:80
+[2019-12-09 14:11:38] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:38] [Info] Connect code.jquery.com:443
+[2019-12-09 14:11:38] [Info] Connect video.trontv.com:443
+[2019-12-09 14:11:39] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:11:49] [Info] Disconnect code.jquery.com:443
+[2019-12-09 14:11:55] [Info] Connect clients4.google.com:443
+[2019-12-09 14:11:56] [Info] Connect google.com:443
+[2019-12-09 14:12:00] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:12:00] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:12:00] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:12:11] [Info] Disconnect www.google.com.hk:443
+[2019-12-09 14:12:11] [Info] Disconnect ogs.google.com:443
+[2019-12-09 14:12:11] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:12:11] [Info] Disconnect apis.google.com:443
+[2019-12-09 14:12:13] [Info] Disconnect www.google.com:443
+[2019-12-09 14:12:13] [Info] Disconnect play.google.com:443
+[2019-12-09 14:12:23] [Info] Connect bit.ly:80
+[2019-12-09 14:12:23] [Info] Connect play.google.com:443
+[2019-12-09 14:12:23] [Info] Disconnect bit.ly:80
+[2019-12-09 14:12:24] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:12:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 14:12:24] [Info] Connect ogs.google.com:443
+[2019-12-09 14:12:25] [Info] Connect www.google.com:443
+[2019-12-09 14:12:25] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 14:12:25] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 14:12:26] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-12-09 14:12:30] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:12:30] [Info] Connect translate.google.com:443
+[2019-12-09 14:12:39] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:12:39] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:12:39] [Info] Disconnect video.trontv.com:443
+[2019-12-09 14:13:15] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:13:15] [Info] Direct connect www.luogu.com.cn:443
+[2019-12-09 14:13:17] [Info] Connect clients1.google.com:443
+[2019-12-09 14:13:17] [Info] Direct connect cdn.luogu.org:443
+[2019-12-09 14:13:46] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-12-09 14:13:58] [Info] Disconnect google.com:443
+[2019-12-09 14:13:58] [Info] Disconnect clients4.google.com:443
+[2019-12-09 14:14:25] [Info] Disconnect ogs.google.com:443
+[2019-12-09 14:14:25] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 14:14:25] [Info] Disconnect www.google.com:443
+[2019-12-09 14:14:31] [Info] Disconnect translate.google.com:443
+[2019-12-09 14:14:48] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 14:14:58] [Info] Disconnect play.google.com:443
+[2019-12-09 14:15:09] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:15:09] [Info] Connect google.com:443
+[2019-12-09 14:15:09] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 14:15:18] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:15:31] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:15:32] [Info] Connect clients1.google.com:443
+[2019-12-09 14:16:28] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 14:17:10] [Info] Disconnect google.com:443
+[2019-12-09 14:17:19] [Info] Connect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:17:20] [Info] Connect google.com:443
+[2019-12-09 14:17:34] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:17:59] [Info] Direct connect www.luogu.com.cn:443
+[2019-12-09 14:17:59] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:17:59] [Info] Direct connect cdn.luogu.org:443
+[2019-12-09 14:18:03] [Info] Connect clients1.google.com:443
+[2019-12-09 14:18:26] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:18:29] [Info] Direct connect cdn.luogu.org:443
+[2019-12-09 14:18:53] [Info] Connect media.adaware.com:443
+[2019-12-09 14:18:53] [Info] Connect media.adaware.com:443
+[2019-12-09 14:18:54] [Info] Connect code.jquery.com:443
+[2019-12-09 14:18:54] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 14:18:54] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:18:54] [Info] Direct connect www.googletagmanager.com:443
+[2019-12-09 14:19:04] [Info] Direct connect cdn.luogu.com.cn:443
+[2019-12-09 14:19:04] [Info] Disconnect media.adaware.com:443
+[2019-12-09 14:19:04] [Info] Disconnect code.jquery.com:443
+[2019-12-09 14:19:21] [Info] Disconnect google.com:443
+[2019-12-09 14:19:21] [Info] Disconnect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:20:05] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:20:55] [Info] Disconnect media.adaware.com:443
+[2019-12-09 14:47:48] ShadowsocksR started on port 1080
+[2019-12-09 14:47:51] [Info] Connect clients1.google.com:443
+[2019-12-09 14:47:53] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:47:55] [Info] Connect www.google.com:443
+[2019-12-09 14:47:57] [Info] Connect live.github.com:443
+[2019-12-09 14:47:57] [Info] Connect github.com:443
+[2019-12-09 14:47:57] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 14:47:57] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:47:57] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:47:57] [Info] Direct connect adservice.google.com:443
+[2019-12-09 14:47:57] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 14:47:58] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 14:47:58] [Info] Connect adservice.google.cn:443
+[2019-12-09 14:47:58] [Info] Connect api.github.com:443
+[2019-12-09 14:47:58] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 14:47:59] [Info] Connect github.com:443
+[2019-12-09 14:48:00] [Info] Disconnect live.github.com:443
+[2019-12-09 14:48:00] [Info] Connect live.github.com:443
+[2019-12-09 14:48:03] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:48:58] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 14:48:58] [Info] Direct connect google.cn:443
+[2019-12-09 14:49:00] [Info] Disconnect api.github.com:443
+[2019-12-09 14:49:02] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 14:49:03] [Info] Disconnect live.github.com:443
+[2019-12-09 14:49:03] [Info] Connect live.github.com:443
+[2019-12-09 14:49:03] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:49:03] [Info] Connect api.github.com:443
+[2019-12-09 14:49:04] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:49:19] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:49:20] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:49:26] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 14:49:26] [Info] Connect id.google.com:443
+[2019-12-09 14:49:29] [Info] Connect play.google.com:443
+[2019-12-09 14:49:29] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:49:30] [Info] Connect csp.withgoogle.com:443
+[2019-12-09 14:49:30] [Info] Connect csp.withgoogle.com:443
+[2019-12-09 14:49:30] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 14:49:30] [Info] Disconnect csp.withgoogle.com:443
+[2019-12-09 14:49:30] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:49:30] [Info] Connect play-music.gstatic.com:443
+[2019-12-09 14:49:30] [Info] Connect play-music.gstatic.com:443
+[2019-12-09 14:49:30] [Info] Disconnect play-music.gstatic.com:443
+[2019-12-09 14:49:30] [Info] Direct connect ssl.google-analytics.com:443
+[2019-12-09 14:49:31] [Info] Connect ogs.google.com:443
+[2019-12-09 14:49:37] [Info] Connect support.google.com:443
+[2019-12-09 14:49:37] [Info] Connect support.google.com:443
+[2019-12-09 14:49:38] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 14:49:38] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 14:49:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 14:49:38] [Info] Connect play.google.com:443
+[2019-12-09 14:49:38] [Info] Connect scone-pa.clients6.google.com:443
+[2019-12-09 14:49:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 14:49:39] [Info] Connect scone-pa.clients6.google.com:443
+[2019-12-09 14:49:39] [Info] Connect apis.google.com:443
+[2019-12-09 14:49:39] [Info] Connect github.com:443
+[2019-12-09 14:49:39] [Info] Connect github.com:443
+[2019-12-09 14:49:39] [Info] Disconnect live.github.com:443
+[2019-12-09 14:49:39] [Info] Connect github.com:443
+[2019-12-09 14:49:39] [Info] Connect live.github.com:443
+[2019-12-09 14:49:39] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:49:39] [Info] Disconnect api.github.com:443
+[2019-12-09 14:49:39] [Info] Connect realtimesupport.clients6.google.com:443
+[2019-12-09 14:49:39] [Info] Connect accounts.google.com:443
+[2019-12-09 14:49:39] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 14:49:39] [Info] Disconnect support.google.com:443
+[2019-12-09 14:49:51] [Info] Connect api.github.com:443
+[2019-12-09 14:49:51] [Info] Disconnect github.com:443
+[2019-12-09 14:50:00] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:50:12] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:51:06] ShadowsocksR started on port 1080
+[2019-12-09 14:51:12] [Info] Connect github.com:443
+[2019-12-09 14:51:13] [Info] Connect apis.google.com:443
+[2019-12-09 14:51:13] [Info] Connect beacons.gcp.gvt2.com:443
+[2019-12-09 14:51:13] [Info] Direct connect beacons5.gvt3.com:443
+[2019-12-09 14:51:14] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:51:14] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 14:51:18] [Info] Connect github.com:443
+[2019-12-09 14:51:18] [Info] Connect github.com:443
+[2019-12-09 14:51:18] [Info] Connect github.com:443
+[2019-12-09 14:51:29] [Info] Disconnect github.com:443
+[2019-12-09 14:51:33] [Info] Connect clients1.google.com:443
+[2019-12-09 14:51:41] [Info] Connect clients2.google.com:443
+[2019-12-09 14:51:42] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:51:42] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:51:53] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:51:58] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:52:03] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:52:04] [Info] Connect live.github.com:443
+[2019-12-09 14:52:04] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 14:52:04] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:52:04] [Info] Connect api.github.com:443
+[2019-12-09 14:52:09] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:52:24] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:52:25] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 14:52:25] [Info] Connect avatars2.githubusercontent.com:443
+[2019-12-09 14:52:26] [Info] Connect live.github.com:443
+[2019-12-09 14:52:31] [Info] Disconnect live.github.com:443
+[2019-12-09 14:52:31] [Info] Connect avatars3.githubusercontent.com:443
+[2019-12-09 14:52:31] [Info] Connect live.github.com:443
+[2019-12-09 14:52:36] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:52:37] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:52:38] [Info] Disconnect live.github.com:443
+[2019-12-09 14:52:38] [Info] Connect github.com:443
+[2019-12-09 14:52:38] [Info] Connect github.com:443
+[2019-12-09 14:52:38] [Info] Connect live.github.com:443
+[2019-12-09 14:52:41] [Info] Disconnect live.github.com:443
+[2019-12-09 14:52:41] [Info] Connect live.github.com:443
+[2019-12-09 14:52:41] [Info] Connect beacons4.gvt2.com:443
+[2019-12-09 14:52:45] [Info] Disconnect live.github.com:443
+[2019-12-09 14:52:45] [Info] Connect live.github.com:443
+[2019-12-09 14:52:47] [Info] Disconnect live.github.com:443
+[2019-12-09 14:52:47] [Info] Connect live.github.com:443
+[2019-12-09 14:52:47] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:52:50] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:52:50] [Info] Disconnect github.com:443
+[2019-12-09 14:52:50] [Info] Disconnect github.com:443
+[2019-12-09 14:52:53] [Info] Connect live.github.com:443
+[2019-12-09 14:52:53] [Info] Connect live.github.com:443
+[2019-12-09 14:52:53] [Info] Connect live.github.com:443
+[2019-12-09 14:52:53] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:52:54] [Info] Connect api.github.com:443
+[2019-12-09 14:52:55] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 14:52:57] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:00] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:01] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:05] [Info] Disconnect api.github.com:443
+[2019-12-09 14:53:05] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 14:53:05] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:53:07] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:53:08] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:08] [Info] Connect live.github.com:443
+[2019-12-09 14:53:11] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:12] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:53:15] [Info] Disconnect apis.google.com:443
+[2019-12-09 14:53:19] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:53:25] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:53:26] [Info] Disconnect live.github.com:443
+[2019-12-09 14:53:26] [Info] Connect github.com:443
+[2019-12-09 14:53:26] [Info] Connect live.github.com:443
+[2019-12-09 14:53:41] [Info] Disconnect clients2.google.com:443
+[2019-12-09 14:53:43] [Info] Disconnect github.com:443
+[2019-12-09 14:54:09] [Info] Disconnect api.github.com:443
+[2019-12-09 14:54:15] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2019-12-09 14:54:27] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-12-09 14:54:27] [Info] Disconnect github.com:443
+[2019-12-09 14:54:27] [Info] Disconnect github.com:443
+[2019-12-09 14:54:27] [Info] Disconnect github.com:443
+[2019-12-09 14:54:31] [Info] Disconnect avatars3.githubusercontent.com:443
+[2019-12-09 14:54:32] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 14:54:37] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:54:41] [Info] Disconnect beacons4.gvt2.com:443
+[2019-12-09 14:55:08] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 14:55:11] [Info] Connect api.github.com:443
+[2019-12-09 14:55:11] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:55:12] [Info] Connect beacons.gcp.gvt2.com:443
+[2019-12-09 14:55:17] [Info] Connect github.com:443
+[2019-12-09 14:55:18] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 14:55:29] [Info] Connect github.com:443
+[2019-12-09 14:55:29] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:55:34] [Info] Connect github.com:443
+[2019-12-09 14:55:34] [Info] Connect live.github.com:443
+[2019-12-09 14:55:34] [Info] Disconnect live.github.com:443
+[2019-12-09 14:55:34] [Info] Connect collector.githubapp.com:443
+[2019-12-09 14:55:41] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:55:42] [Info] Connect github.githubassets.com:443
+[2019-12-09 14:55:42] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:55:45] [Info] Disconnect github.com:443
+[2019-12-09 14:55:49] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:55:51] [Info] Connect v2ex.com:443
+[2019-12-09 14:55:51] [Info] Direct connect adservice.google.com:443
+[2019-12-09 14:55:51] [Info] Connect cdn.v2ex.com:443
+[2019-12-09 14:55:51] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-12-09 14:55:53] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:55:53] [Info] Connect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:55:54] [Info] Connect clients1.google.com:443
+[2019-12-09 14:55:56] [Info] Connect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:55:59] [Info] Connect pincong.rocks:443
+[2019-12-09 14:55:59] [Info] Connect pincong.rocks:443
+[2019-12-09 14:55:59] [Info] Disconnect pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Connect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:56:01] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:56:14] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 14:56:34] [Info] Disconnect github.com:443
+[2019-12-09 14:56:42] [Info] Disconnect api.github.com:443
+[2019-12-09 14:56:47] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 14:57:04] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:57:07] [Info] Connect lihkg.com:80
+[2019-12-09 14:57:07] [Info] Connect lihkg.com:443
+[2019-12-09 14:57:07] [Info] Disconnect lihkg.com:80
+[2019-12-09 14:57:07] [Info] Connect ajax.cloudflare.com:443
+[2019-12-09 14:57:08] [Info] Connect lihkg.com:443
+[2019-12-09 14:57:08] [Info] Direct connect www.googletagservices.com:443
+[2019-12-09 14:57:08] [Info] Direct connect adservice.google.com:443
+[2019-12-09 14:57:08] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 14:57:09] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:57:09] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 14:57:10] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-12-09 14:57:13] [Info] Connect connect.facebook.net:443
+[2019-12-09 14:57:13] [Info] Connect connect.facebook.net:443
+[2019-12-09 14:57:13] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2019-12-09 14:57:13] [Info] Connect staticxx.facebook.com:443
+[2019-12-09 14:57:13] [Info] Connect web.facebook.com:443
+[2019-12-09 14:57:14] [Info] Connect www.facebook.com:443
+[2019-12-09 14:57:19] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-12-09 14:57:19] [Info] Connect i.lih.kg:443
+[2019-12-09 14:57:19] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 14:57:19] [Info] Connect pb.lihkg.com:443
+[2019-12-09 14:57:20] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-12-09 14:57:20] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-12-09 14:57:21] [Info] Connect agent.aralego.com:443
+[2019-12-09 14:57:21] [Info] Disconnect github.com:443
+[2019-12-09 14:57:21] [Info] Disconnect pincong.rocks:443
+[2019-12-09 14:57:21] [Info] Disconnect cdn.v2ex.com:443
+[2019-12-09 14:57:21] [Info] Disconnect clients1.google.com:443
+[2019-12-09 14:57:21] [Info] Disconnect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:57:21] [Info] Disconnect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 14:57:21] [Info] Disconnect i.lih.kg:443
+[2019-12-09 14:57:21] [Info] Disconnect lihkg.com:443
+[2019-12-09 14:57:21] [Info] Disconnect lihkg.com:443
+[2019-12-09 14:57:21] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 14:57:21] [Info] Disconnect ajax.cloudflare.com:443
+[2019-12-09 14:57:21] [Info] Disconnect web.facebook.com:443
+[2019-12-09 14:57:21] [Info] Disconnect v2ex.com:443
+[2019-12-09 14:57:21] [Info] Disconnect www.facebook.com:443
+[2019-12-09 14:57:21] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 14:57:21] [Info] Disconnect staticxx.facebook.com:443
+[2019-12-09 14:57:21] [Info] Disconnect connect.facebook.net:443
+[2019-12-09 14:57:22] [Info] Connect um.simpli.fi:443
+[2019-12-09 14:57:22] [Info] Disconnect pb.lihkg.com:443
+[2019-12-09 14:57:22] [Info] Disconnect connect.facebook.net:443
+[2019-12-09 14:57:22] [Info] Connect ad.turn.com:443
+[2019-12-09 14:57:22] [Info] Disconnect agent.aralego.com:443
+[2019-12-09 14:57:22] [Info] Connect ad.turn.com:443
+[2019-12-09 14:57:23] [Info] Connect um.simpli.fi:443
+[2019-12-09 14:57:23] [Info] Disconnect um.simpli.fi:443
+[2019-12-09 14:57:26] [Info] Disconnect ad.turn.com:443
+[2019-12-09 14:57:27] [Info] Connect cm.send.microad-cn.com:443
+[2019-12-09 14:57:27] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 14:57:27] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 14:57:27] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 14:57:27] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 14:57:27] [Info] Connect x.bidswitch.net:443
+[2019-12-09 14:57:27] [Info] Connect c1.adform.net:443
+[2019-12-09 14:57:27] [Info] Connect cm.send.microad-cn.com:443
+[2019-12-09 14:57:27] [Info] Disconnect ad.turn.com:443
+[2019-12-09 14:57:27] [Error] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Shadowsocks.Controller.ProxySocketTunLocal.Send(Byte[] buffer, Int32 size, SocketFlags flags)
+   at Shadowsocks.Controller.Socks5Forwarder.Handler.StartPipe()
+[2019-12-09 14:57:27] [Info] Disconnect cm.send.microad-cn.com:443
+[2019-12-09 14:57:27] [Info] Disconnect cm.send.microad-cn.com:443
+[2019-12-09 14:57:28] [Info] Connect x.bidswitch.net:443
+[2019-12-09 14:57:28] [Info] Connect c1.adform.net:443
+[2019-12-09 14:57:28] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 14:57:28] [Info] Connect cdn.aralego.net:443
+[2019-12-09 14:57:28] [Info] Connect translate.google.com:443
+[2019-12-09 14:57:28] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:57:28] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:57:28] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:57:28] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:57:28] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 14:57:28] [Info] Connect r.turn.com:443
+[2019-12-09 14:57:28] [Info] Disconnect c1.adform.net:443
+[2019-12-09 14:57:29] [Info] Connect ads.aralego.com:443
+[2019-12-09 14:57:29] [Info] Connect sync.aralego.com:443
+[2019-12-09 14:57:29] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-12-09 14:57:30] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 203.208.39.223:443
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-12-09 14:57:31] [Info] Connect github.com:443
+[2019-12-09 14:57:32] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 14:57:32] [Info] Disconnect ads.aralego.com:443
+[2019-12-09 14:57:34] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:57:34] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:57:34] [Info] Connect apis.google.com:443
+[2019-12-09 14:57:34] [Info] Disconnect r.turn.com:443
+[2019-12-09 14:57:34] [Info] Connect www.google.com:443
+[2019-12-09 14:57:34] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:57:36] [Info] Direct connect adservice.google.com:443
+[2019-12-09 14:57:39] [Info] Disconnect sync.aralego.com:443
+[2019-12-09 14:57:51] [Info] Connect id.google.com:443
+[2019-12-09 14:57:51] [Info] Disconnect apis.google.com:443
+[2019-12-09 14:57:51] [Info] Disconnect x.bidswitch.net:443
+[2019-12-09 14:57:51] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:51] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:57:54] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 14:57:54] [Info] Connect adservice.google.cn:443
+[2019-12-09 14:57:54] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 14:57:55] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 14:57:55] [Info] Connect play.google.com:443
+[2019-12-09 14:58:04] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 14:58:04] [Info] Connect adservice.google.cn:443
+[2019-12-09 14:58:04] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 14:58:12] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 14:58:15] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 14:58:15] [Info] Connect adservice.google.cn:443
+[2019-12-09 14:58:16] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 14:58:21] [Info] Connect beacons.gcp.gvt2.com:443
+[2019-12-09 14:58:33] [Info] Disconnect x.bidswitch.net:443
+[2019-12-09 14:58:37] [Info] Connect google.com:443
+[2019-12-09 14:58:39] [Info] Connect oi-wiki.org:443
+[2019-12-09 14:58:39] [Info] Connect oi-wiki.org:443
+[2019-12-09 14:58:39] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:58:39] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 14:58:40] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-12-09 14:58:40] [Info] Connect api.github.com:443
+[2019-12-09 14:58:40] [Info] Connect api.github.com:443
+[2019-12-09 14:58:40] [Info] Connect clients1.google.com:443
+[2019-12-09 14:58:41] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 14:58:41] [Info] Connect api.github.com:443
+[2019-12-09 14:58:41] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-12-09 14:58:42] [Info] Connect oi-wiki.org:443
+[2019-12-09 14:58:43] [Info] Connect avatars2.githubusercontent.com:443
+[2019-12-09 14:58:43] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 14:58:43] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 14:58:43] [Info] Disconnect api.github.com:443
+[2019-12-09 14:58:47] [Info] Disconnect api.github.com:443
+[2019-12-09 14:58:48] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 14:58:48] [Info] Connect adservice.google.cn:443
+[2019-12-09 14:58:48] [Info] Disconnect api.github.com:443
+[2019-12-09 14:58:48] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 14:58:49] [Debug] DNS query fail: m.arkf.xyz
+[2019-12-09 14:58:49] [Debug] DNS query fail: m.arkf.xyz
+[2019-12-09 14:58:49] [Info] Connect m.arkf.xyz:443
+[2019-12-09 14:58:49] [Info] Connect m.arkf.xyz:443
+[2019-12-09 14:58:50] [Info] Disconnect m.arkf.xyz:443
+[2019-12-09 14:58:50] [Info] Disconnect m.arkf.xyz:443
+[2019-12-09 14:58:54] [Info] Disconnect oi-wiki.org:443
+[2019-12-09 14:58:55] [Info] Direct connect google.cn:443
+[2019-12-09 14:58:55] [Info] Connect webcache.googleusercontent.com:443
+[2019-12-09 14:58:57] [Info] Connect api.github.com:443
+[2019-12-09 14:58:57] [Info] Connect api.github.com:443
+[2019-12-09 14:59:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:59:07] [Info] Disconnect api.github.com:443
+[2019-12-09 14:59:17] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 14:59:17] [Info] Connect api.github.com:443
+[2019-12-09 14:59:17] [Info] Connect api.github.com:443
+[2019-12-09 14:59:17] [Info] Disconnect api.github.com:443
+[2019-12-09 14:59:17] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 14:59:22] [Info] Disconnect um.simpli.fi:443
+[2019-12-09 14:59:28] [Info] Disconnect cdn.aralego.net:443
+[2019-12-09 14:59:28] [Info] Disconnect translate.google.com:443
+[2019-12-09 14:59:28] [Info] Disconnect c1.adform.net:443
+[2019-12-09 14:59:34] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-12-09 14:59:41] [Info] Connect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:59:41] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 14:59:52] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 14:59:52] [Info] Disconnect id.google.com:443
+[2019-12-09 14:59:56] [Info] Disconnect play.google.com:443
+[2019-12-09 15:00:22] [Info] Disconnect api.github.com:443
+[2019-12-09 15:00:23] [Info] Disconnect api.github.com:443
+[2019-12-09 15:00:41] [Info] Disconnect github.com:443
+[2019-12-09 15:00:42] [Info] Disconnect github-production-upload-manifest-file-7fdce7.s3.amazonaws.com:443
+[2019-12-09 15:00:44] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 15:00:44] [Info] Disconnect clients1.google.com:443
+[2019-12-09 15:00:44] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-12-09 15:00:50] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-12-09 15:00:50] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:00:50] [Info] Connect api.github.com:443
+[2019-12-09 15:00:51] [Info] Connect api.github.com:443
+[2019-12-09 15:00:52] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 15:00:52] [Info] Connect avatars2.githubusercontent.com:443
+[2019-12-09 15:00:57] [Info] Disconnect oi-wiki.org:443
+[2019-12-09 15:00:59] [Info] Disconnect webcache.googleusercontent.com:443
+[2019-12-09 15:01:09] [Info] Disconnect oi-wiki.org:443
+[2019-12-09 15:01:09] [Info] Connect oi-wiki.org:443
+[2019-12-09 15:01:24] [Info] Disconnect www.google.com:443
+[2019-12-09 15:01:29] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-12-09 15:01:29] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:01:30] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 15:01:30] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 15:01:30] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 15:01:42] [Info] Disconnect google.com:443
+[2019-12-09 15:08:07] ShadowsocksR started on port 1080
+[2019-12-09 15:08:14] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:08:17] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 15:08:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:08:20] [Info] Connect www.bittorrent.com:443
+[2019-12-09 15:08:21] [Info] Disconnect www.bittorrent.com:443
+[2019-12-09 15:20:37] ShadowsocksR started on port 1080
+[2019-12-09 15:20:46] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 15:20:48] [Info] Connect clients1.google.com:443
+[2019-12-09 15:20:52] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:20:58] [Info] Connect medium.com:443
+[2019-12-09 15:20:58] [Info] Connect medium.com:443
+[2019-12-09 15:20:59] [Info] Connect glyph.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 15:20:59] [Info] Connect miro.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect miro.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 15:20:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 15:20:59] [Info] Disconnect miro.medium.com:443
+[2019-12-09 15:21:00] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 15:21:00] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 15:21:00] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 15:21:00] [Info] Connect glyph.medium.com:443
+[2019-12-09 15:21:00] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:21:01] [Info] Connect cdn.branch.io:443
+[2019-12-09 15:21:01] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 15:21:01] [Info] Connect smartlock.google.com:443
+[2019-12-09 15:21:01] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:21:02] [Info] Connect app.link:443
+[2019-12-09 15:21:02] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:21:02] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 15:21:02] [Info] Connect api2.branch.io:443
+[2019-12-09 15:21:02] [Info] Connect cdn-static-1.medium.com:443
+[2019-12-09 15:21:04] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:21:04] [Info] Connect accounts.google.com:443
+[2019-12-09 15:21:04] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 15:21:07] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:21:07] [Info] Connect accounts.youtube.com:443
+[2019-12-09 15:21:07] [Info] Connect play.google.com:443
+[2019-12-09 15:21:36] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:21:39] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 15:21:41] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:22:04] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:22:05] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:22:07] [Info] Connect google.com:443
+[2019-12-09 15:22:07] [Info] Disconnect medium.com:443
+[2019-12-09 15:22:27] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 15:22:30] [Info] Connect www.googleapis.com:443
+[2019-12-09 15:22:31] [Info] Connect android.clients.google.com:443
+[2019-12-09 15:22:31] [Info] Connect accounts.google.com.hk:443
+[2019-12-09 15:22:31] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 15:22:31] [Info] Connect clients4.google.com:443
+[2019-12-09 15:22:31] [Info] Connect mtalk.google.com:5228
+[2019-12-09 15:22:33] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:22:33] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:22:33] [Info] Connect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:22:33] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 15:22:33] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:22:33] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:22:34] [Info] Connect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 15:22:38] [Info] Disconnect play.google.com:443
+[2019-12-09 15:22:38] [Info] Connect play.google.com:443
+[2019-12-09 15:22:50] [Info] Disconnect accounts.youtube.com:443
+[2019-12-09 15:22:53] [Info] Disconnect cdn-static-1.medium.com:443
+[2019-12-09 15:22:53] [Info] Connect cdn-static-1.medium.com:443
+[2019-12-09 15:22:53] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:22:54] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:23:00] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 15:23:00] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 15:23:00] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 15:23:02] [Info] Connect csp.medium.com:443
+[2019-12-09 15:23:02] [Info] Disconnect smartlock.google.com:443
+[2019-12-09 15:23:02] [Info] Disconnect miro.medium.com:443
+[2019-12-09 15:23:02] [Info] Disconnect cdn.branch.io:443
+[2019-12-09 15:23:03] [Info] Connect medium.com:443
+[2019-12-09 15:23:03] [Info] Disconnect app.link:443
+[2019-12-09 15:23:04] [Info] Connect app.link:443
+[2019-12-09 15:23:06] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:23:12] [Info] Disconnect medium.com:443
+[2019-12-09 15:23:12] [Info] Disconnect api2.branch.io:443
+[2019-12-09 15:23:12] [Info] Connect api2.branch.io:443
+[2019-12-09 15:23:13] [Info] Connect glyph.medium.com:443
+[2019-12-09 15:23:21] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 15:23:22] [Info] Connect miro.medium.com:443
+[2019-12-09 15:23:22] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 15:23:22] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 15:23:22] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:23:23] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:23:33] [Info] Connect i.embed.ly:443
+[2019-12-09 15:23:35] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:23:35] [Info] Connect gist.github.com:443
+[2019-12-09 15:23:35] [Info] Disconnect app.link:443
+[2019-12-09 15:23:35] [Info] Disconnect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 15:23:36] [Info] Connect github.githubassets.com:443
+[2019-12-09 15:23:36] [Info] Disconnect gist.github.com:443
+[2019-12-09 15:23:36] [Info] Connect app.link:443
+[2019-12-09 15:23:37] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:23:45] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 15:23:46] [Info] Disconnect app.link:443
+[2019-12-09 15:23:47] [Info] Connect app.link:443
+[2019-12-09 15:23:47] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:23:49] [Info] Connect gist.github.com:443
+[2019-12-09 15:23:49] [Info] Disconnect app.link:443
+[2019-12-09 15:23:50] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:23:50] [Info] Disconnect gist.github.com:443
+[2019-12-09 15:23:52] [Info] Connect gist.github.com:443
+[2019-12-09 15:23:52] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:23:52] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:24:02] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 15:24:03] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:24:07] [Info] Disconnect google.com:443
+[2019-12-09 15:24:17] [Info] Connect app.link:443
+[2019-12-09 15:24:32] [Info] Disconnect mtalk.google.com:5228
+[2019-12-09 15:24:32] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 15:24:32] [Info] Disconnect accounts.google.com.hk:443
+[2019-12-09 15:24:32] [Info] Disconnect android.clients.google.com:443
+[2019-12-09 15:24:32] [Info] Connect mtalk.google.com:5228
+[2019-12-09 15:24:32] [Info] Disconnect accounts.google.com:443
+[2019-12-09 15:24:34] [Info] Disconnect www.googleapis.com:443
+[2019-12-09 15:24:34] [Info] Disconnect firebaseperusertopics-pa.googleapis.com:443
+[2019-12-09 15:24:39] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:24:40] [Info] Disconnect play.google.com:443
+[2019-12-09 15:24:53] [Info] Disconnect gist.github.com:443
+[2019-12-09 15:24:59] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:25:10] [Info] Connect busuanzi.ibruce.info:443
+[2019-12-09 15:25:11] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:11] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 15:25:11] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:11] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:11] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:11] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Connect busuanzi.ibruce.info:80
+[2019-12-09 15:25:12] [Info] Direct connect api.share.baidu.com:80
+[2019-12-09 15:25:12] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 15:25:12] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Disconnect cdn-static-1.medium.com:443
+[2019-12-09 15:25:12] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:12] [Info] Disconnect busuanzi.ibruce.info:80
+[2019-12-09 15:25:13] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:13] [Info] Direct connect api.share.baidu.com:80
+[2019-12-09 15:25:13] [Info] Connect busuanzi.ibruce.info:80
+[2019-12-09 15:25:14] [Info] Disconnect busuanzi.ibruce.info:80
+[2019-12-09 15:25:15] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:16] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:25:16] [Info] Direct connect api.share.baidu.com:80
+[2019-12-09 15:25:16] [Info] Connect busuanzi.ibruce.info:80
+[2019-12-09 15:25:16] [Info] Connect lzyrapx.disqus.com:80
+[2019-12-09 15:25:16] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:16] [Info] Connect lzyrapx.disqus.com:80
+[2019-12-09 15:25:16] [Info] Connect lzyrapx.disqus.com:443
+[2019-12-09 15:25:16] [Info] Connect lzyrapx.disqus.com:443
+[2019-12-09 15:25:16] [Info] Disconnect busuanzi.ibruce.info:80
+[2019-12-09 15:25:16] [Info] Disconnect lzyrapx.disqus.com:80
+[2019-12-09 15:25:16] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:25:17] [Info] Disconnect lzyrapx.disqus.com:80
+[2019-12-09 15:25:17] [Info] Connect disqus.com:443
+[2019-12-09 15:25:17] [Info] Connect c.disquscdn.com:443
+[2019-12-09 15:25:17] [Info] Connect c.disquscdn.com:443
+[2019-12-09 15:25:17] [Info] Connect c.disquscdn.com:443
+[2019-12-09 15:25:18] [Info] Disconnect c.disquscdn.com:443
+[2019-12-09 15:25:18] [Info] Disconnect c.disquscdn.com:443
+[2019-12-09 15:25:18] [Info] Connect c.disquscdn.com:443
+[2019-12-09 15:25:18] [Info] Connect referrer.disqus.com:443
+[2019-12-09 15:25:25] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:25:25] [Info] Disconnect busuanzi.ibruce.info:443
+[2019-12-09 15:25:34] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:25:36] [Info] Disconnect i.embed.ly:443
+[2019-12-09 15:25:36] [Info] Disconnect clients1.google.com:443
+[2019-12-09 15:25:36] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 15:25:45] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 15:25:45] [Info] Disconnect csp.medium.com:443
+[2019-12-09 15:25:45] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 15:25:47] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 15:25:47] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 15:25:49] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 15:25:49] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:25:49] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 15:25:50] [Info] Connect cdn.branch.io:443
+[2019-12-09 15:25:50] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:25:51] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:25:57] [Info] Connect csp.medium.com:443
+[2019-12-09 15:25:58] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 15:25:59] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 15:26:17] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:26:24] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:26:29] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 15:26:29] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:26:31] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:26:34] [Info] Disconnect mtalk.google.com:5228
+[2019-12-09 15:26:34] [Info] Connect mtalk.google.com:5228
+[2019-12-09 15:26:39] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 15:26:55] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:27:02] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:27:17] [Info] Disconnect disqus.com:443
+[2019-12-09 15:27:17] [Info] Disconnect lzyrapx.disqus.com:443
+[2019-12-09 15:27:17] [Info] Disconnect lzyrapx.disqus.com:443
+[2019-12-09 15:27:19] [Info] Disconnect c.disquscdn.com:443
+[2019-12-09 15:27:19] [Info] Disconnect c.disquscdn.com:443
+[2019-12-09 15:27:19] [Info] Disconnect referrer.disqus.com:443
+[2019-12-09 15:27:24] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:27:24] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:27:25] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:27:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 15:27:45] [Info] Disconnect miro.medium.com:443
+[2019-12-09 15:27:51] [Info] Disconnect cdn.branch.io:443
+[2019-12-09 15:27:58] [Info] Disconnect csp.medium.com:443
+[2019-12-09 15:27:58] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 15:27:58] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:28:00] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 15:28:05] [Info] Connect api.github.com:443
+[2019-12-09 15:28:07] [Info] Connect busuanzi.ibruce.info:80
+[2019-12-09 15:28:07] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 15:28:08] [Info] Direct connect api.share.baidu.com:80
+[2019-12-09 15:28:08] [Info] Disconnect busuanzi.ibruce.info:80
+[2019-12-09 15:28:11] [Info] Connect twitter.com:443
+[2019-12-09 15:28:11] [Info] Connect twitter.com:443
+[2019-12-09 15:28:12] [Info] Disconnect twitter.com:443
+[2019-12-09 15:28:12] [Info] Connect abs.twimg.com:443
+[2019-12-09 15:28:12] [Info] Connect www.lzyrapx.xyz:80
+[2019-12-09 15:28:13] [Info] Direct connect ssl.google-analytics.com:443
+[2019-12-09 15:28:13] [Info] Disconnect www.lzyrapx.xyz:80
+[2019-12-09 15:28:13] [Info] Connect busuanzi.ibruce.info:80
+[2019-12-09 15:28:13] [Info] Direct connect api.share.baidu.com:80
+[2019-12-09 15:28:13] [Info] Disconnect busuanzi.ibruce.info:80
+[2019-12-09 15:28:22] [Info] Connect pbs.twimg.com:443
+[2019-12-09 15:28:22] [Info] Connect pbs.twimg.com:443
+[2019-12-09 15:28:22] [Info] Disconnect pbs.twimg.com:443
+[2019-12-09 15:28:22] [Info] Connect abs.twimg.com:443
+[2019-12-09 15:28:23] [Info] Connect clients1.google.com:443
+[2019-12-09 15:28:23] [Info] Connect analytics.twitter.com:443
+[2019-12-09 15:28:23] [Info] Connect syndication.twitter.com:443
+[2019-12-09 15:28:24] [Info] Connect twitter.com:443
+[2019-12-09 15:28:31] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:28:34] [Info] Disconnect mtalk.google.com:5228
+[2019-12-09 15:28:34] [Info] Connect mtalk.google.com:5228
+[2019-12-09 15:28:43] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:28:49] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:28:51] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:28:51] [Info] Connect ajax.googleapis.com:443
+[2019-12-09 15:28:51] [Info] Connect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 15:28:51] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 15:28:51] [Info] Connect netdna.bootstrapcdn.com:443
+[2019-12-09 15:28:51] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:28:51] [Info] Direct connect www.googleadservices.com:443
+[2019-12-09 15:28:52] [Info] Connect www.bittorrent.com:443
+[2019-12-09 15:28:52] [Info] Disconnect www.bittorrent.com:443
+[2019-12-09 15:28:53] [Info] Connect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 15:28:54] [Info] Connect photos.google.com:80
+[2019-12-09 15:28:54] [Info] Connect photos.google.com:443
+[2019-12-09 15:28:55] [Info] Disconnect photos.google.com:80
+[2019-12-09 15:28:55] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 15:28:55] [Info] Connect apis.google.com:443
+[2019-12-09 15:28:55] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 15:28:55] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 15:28:55] [Info] Connect play.google.com:443
+[2019-12-09 15:28:55] [Info] Disconnect ajax.googleapis.com:443
+[2019-12-09 15:28:55] [Info] Disconnect api.github.com:443
+[2019-12-09 15:28:56] [Info] Connect lh3.google.com:443
+[2019-12-09 15:28:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:28:56] [Info] Connect www.google.com:443
+[2019-12-09 15:28:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:28:56] [Info] Connect ogs.google.com:443
+[2019-12-09 15:28:56] [Info] Disconnect apis.google.com:443
+[2019-12-09 15:28:56] [Info] Connect play.google.com:443
+[2019-12-09 15:28:56] [Info] Disconnect app.link:443
+[2019-12-09 15:28:59] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 15:29:02] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 15:29:02] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:03] [Info] Disconnect netdna.bootstrapcdn.com:443
+[2019-12-09 15:29:03] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:04] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:04] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:04] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:05] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:05] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:05] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:06] [Info] Disconnect www.google.com:443
+[2019-12-09 15:29:10] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:10] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:11] [Info] Disconnect ogs.google.com:443
+[2019-12-09 15:29:11] [Info] Disconnect lh3.google.com:443
+[2019-12-09 15:29:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:16] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:20] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 15:29:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:29:20] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:21] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:21] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:21] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:30] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:29:31] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 15:29:32] [Info] Direct connect fonts.googleapis.com:443
+[2019-12-09 15:29:32] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 15:29:32] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:32] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:34] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:35] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:38] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:39] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:40] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:41] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:42] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:43] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:44] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:45] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:46] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:46] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:46] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:46] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:46] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:56] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:56] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 15:29:57] [Info] Connect google.com:443
+[2019-12-09 15:29:59] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:29:59] [Info] Connect www.google.com:443
+[2019-12-09 15:29:59] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:29:59] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:30:01] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:30:07] [Info] Connect github.githubassets.com:443
+[2019-12-09 15:30:07] [Info] Connect github.com:443
+[2019-12-09 15:30:07] [Info] Connect github.com:443
+[2019-12-09 15:30:09] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect camo.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect github.com:443
+[2019-12-09 15:30:09] [Info] Connect github.com:443
+[2019-12-09 15:30:09] [Info] Connect camo.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect camo.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Disconnect github.com:443
+[2019-12-09 15:30:09] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 15:30:09] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect cloud.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Disconnect camo.githubusercontent.com:443
+[2019-12-09 15:30:09] [Info] Connect live.github.com:443
+[2019-12-09 15:30:10] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:30:10] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 15:30:10] [Info] Disconnect camo.githubusercontent.com:443
+[2019-12-09 15:30:10] [Info] Connect collector.githubapp.com:443
+[2019-12-09 15:30:11] [Info] Disconnect camo.githubusercontent.com:443
+[2019-12-09 15:30:11] [Info] Connect api.github.com:443
+[2019-12-09 15:30:11] [Info] Disconnect cloud.githubusercontent.com:443
+[2019-12-09 15:30:17] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 15:30:17] [Info] Disconnect api.github.com:443
+[2019-12-09 15:30:17] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:30:18] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 15:30:19] [Info] Connect app.link:443
+[2019-12-09 15:30:19] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:30:19] [Info] Connect logx.optimizely.com:443
+[2019-12-09 15:30:19] [Info] Disconnect github.com:443
+[2019-12-09 15:30:19] [Info] Disconnect github.com:443
+[2019-12-09 15:30:19] [Info] Disconnect github.com:443
+[2019-12-09 15:30:20] [Info] Connect github.com:443
+[2019-12-09 15:30:20] [Info] Connect github.githubassets.com:443
+[2019-12-09 15:30:20] [Info] Connect github.com:443
+[2019-12-09 15:30:21] [Info] Disconnect app.link:443
+[2019-12-09 15:30:21] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:30:21] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 15:30:21] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:30:21] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 15:30:21] [Info] Disconnect live.github.com:443
+[2019-12-09 15:30:22] [Info] Connect live.github.com:443
+[2019-12-09 15:30:22] [Info] Connect github.com:443
+[2019-12-09 15:30:22] [Info] Disconnect www.google.com:443
+[2019-12-09 15:30:22] [Info] Disconnect google.com:443
+[2019-12-09 15:30:22] [Info] Disconnect twitter.com:443
+[2019-12-09 15:30:22] [Info] Disconnect clients1.google.com:443
+[2019-12-09 15:30:23] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 15:30:23] [Info] Disconnect analytics.twitter.com:443
+[2019-12-09 15:30:23] [Info] Disconnect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 15:30:23] [Info] Disconnect syndication.twitter.com:443
+[2019-12-09 15:30:23] [Info] Disconnect api2.branch.io:443
+[2019-12-09 15:30:23] [Info] Disconnect clients4.google.com:443
+[2019-12-09 15:30:23] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 15:30:23] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:30:23] [Info] Disconnect abs.twimg.com:443
+[2019-12-09 15:30:23] [Info] Disconnect abs.twimg.com:443
+[2019-12-09 15:30:23] [Info] Disconnect medium.com:443
+[2019-12-09 15:30:23] [Info] Disconnect pbs.twimg.com:443
+[2019-12-09 15:30:23] [Info] Connect collector.githubapp.com:443
+[2019-12-09 15:30:23] [Info] Connect api.github.com:443
+[2019-12-09 15:30:23] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:30:23] [Info] Disconnect play.google.com:443
+[2019-12-09 15:30:23] [Info] Disconnect proxy.orzsiyuan.workers.dev:443
+[2019-12-09 15:30:23] [Info] Disconnect photos.google.com:443
+[2019-12-09 15:30:23] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 15:30:23] [Info] Disconnect play.google.com:443
+[2019-12-09 15:30:23] [Info] Disconnect twitter.com:443
+[2019-12-09 15:30:24] [Info] Connect github.githubassets.com:443
+[2019-12-09 15:30:24] [Info] Connect medium.com:443
+[2019-12-09 15:30:24] [Info] Disconnect live.github.com:443
+[2019-12-09 15:30:25] [Info] Connect avatars2.githubusercontent.com:443
+[2019-12-09 15:30:25] [Info] Connect avatars3.githubusercontent.com:443
+[2019-12-09 15:30:28] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 15:30:28] [Info] Disconnect github.com:443
+[2019-12-09 15:30:30] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:30:35] [Info] Disconnect mtalk.google.com:5228
+[2019-12-09 15:30:35] [Info] Connect mtalk.google.com:5228
+[2019-12-09 15:30:39] [Info] Disconnect github.com:443
+[2019-12-09 15:31:09] [Info] Connect api2.branch.io:443
+[2019-12-09 15:31:09] [Info] Connect app.link:443
+[2019-12-09 15:31:09] [Info] Disconnect github.githubassets.com:443
+[2019-12-09 15:31:09] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:31:10] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 15:31:10] [Info] Connect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:31:22] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 15:31:22] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:31:24] [Info] Disconnect api.github.com:443
+[2019-12-09 15:31:28] [Info] Disconnect github.com:443
+[2019-12-09 15:31:29] [Info] Disconnect collector.githubapp.com:443
+[2019-12-09 15:31:29] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 15:31:51] [Info] Disconnect srv-2019-12-09-07.pixel.parsely.com:443
+[2019-12-09 15:32:00] [Info] Disconnect medium.com:443
+[2019-12-09 16:34:57] ShadowsocksR started on port 1080
+[2019-12-09 16:34:59] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:34:59] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:34:59] [Info] Connect photos.google.com:443
+[2019-12-09 16:35:01] [Info] Connect apis.google.com:443
+[2019-12-09 16:35:01] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:35:01] [Info] Connect lh3.google.com:443
+[2019-12-09 16:35:03] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:35:03] [Info] Connect www.google.com:443
+[2019-12-09 16:35:03] [Info] Connect play.google.com:443
+[2019-12-09 16:35:03] [Info] Connect ogs.google.com:443
+[2019-12-09 16:35:03] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:35:07] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 16:35:11] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:35:11] [Info] Connect photos.google.com:443
+[2019-12-09 16:35:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 16:35:12] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:35:12] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:35:13] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:35:13] [Info] Disconnect www.google.com:443
+[2019-12-09 16:35:14] [Info] Connect clients1.google.com:443
+[2019-12-09 16:35:14] [Info] Disconnect ogs.google.com:443
+[2019-12-09 16:35:14] [Info] Disconnect lh3.google.com:443
+[2019-12-09 16:35:14] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 16:35:14] [Info] Connect play.google.com:443
+[2019-12-09 16:35:14] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:35:14] [Info] Connect play.google.com:443
+[2019-12-09 16:35:15] [Info] Disconnect play.google.com:443
+[2019-12-09 16:35:17] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:35:19] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:35:20] [Info] Connect www.google.com:443
+[2019-12-09 16:35:20] [Info] Connect google.com:80
+[2019-12-09 16:35:20] [Info] Connect www.google.com:80
+[2019-12-09 16:35:21] [Info] Disconnect google.com:80
+[2019-12-09 16:35:21] [Info] Disconnect www.google.com:80
+[2019-12-09 16:35:22] [Info] Connect clients5.google.com:443
+[2019-12-09 16:35:23] [Info] Direct connect adservice.google.com:443
+[2019-12-09 16:35:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 16:35:24] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 16:35:24] [Info] Connect adservice.google.cn:443
+[2019-12-09 16:35:24] [Info] Connect accounts.google.com:443
+[2019-12-09 16:35:24] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-12-09 16:35:38] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 16:35:38] [Info] Connect adservice.google.cn:443
+[2019-12-09 16:35:38] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 16:35:55] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 16:36:00] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:36:01] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:36:01] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 16:36:05] [Info] Connect beacons.gcp.gvt2.com:443
+[2019-12-09 16:36:05] [Info] Connect apis.google.com:443
+[2019-12-09 16:36:10] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:36:10] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:36:12] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 16:36:12] [Info] Connect adservice.google.cn:443
+[2019-12-09 16:36:31] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Connect adservice.google.cn:443
+[2019-12-09 16:36:32] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 16:36:32] [Info] Direct connect www.googleadservices.com:443
+[2019-12-09 16:36:32] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:32] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:33] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:33] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:36:33] [Info] Connect codeforces.com:443
+[2019-12-09 16:36:33] [Info] Direct connect ssl.google-analytics.com:443
+[2019-12-09 16:36:33] [Info] Connect codeforces.com:443
+[2019-12-09 16:36:33] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:33] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:36:33] [Info] Connect sta.codeforces.com:443
+[2019-12-09 16:36:34] [Info] Connect assets.codeforces.com:443
+[2019-12-09 16:36:34] [Info] Connect connect.facebook.net:443
+[2019-12-09 16:36:34] [Info] Connect sta.codeforces.com:443
+[2019-12-09 16:36:34] [Info] Connect userpic.codeforces.com:443
+[2019-12-09 16:36:34] [Info] Disconnect sta.codeforces.com:443
+[2019-12-09 16:36:35] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:35] [Info] Direct connect google.cn:443
+[2019-12-09 16:36:36] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:37] [Info] Connect stats.ioinformatics.org:80
+[2019-12-09 16:36:37] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:37] [Info] Disconnect stats.ioinformatics.org:80
+[2019-12-09 16:36:48] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 16:36:54] [Info] Disconnect codeforces.com:443
+[2019-12-09 16:36:54] [Info] Disconnect connect.facebook.net:443
+[2019-12-09 16:36:54] [Info] Disconnect assets.codeforces.com:443
+[2019-12-09 16:36:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:55] [Info] Disconnect userpic.codeforces.com:443
+[2019-12-09 16:36:55] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:55] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:55] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:55] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 16:36:58] [Info] Connect github.com:443
+[2019-12-09 16:36:58] [Info] Connect github.com:443
+[2019-12-09 16:36:58] [Info] Connect github.githubassets.com:443
+[2019-12-09 16:36:58] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 16:37:00] [Info] Connect avatars3.githubusercontent.com:443
+[2019-12-09 16:37:00] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 16:37:00] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 16:37:00] [Info] Connect avatars1.githubusercontent.com:443
+[2019-12-09 16:37:01] [Info] Connect live.github.com:443
+[2019-12-09 16:37:01] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 16:37:01] [Info] Connect collector.githubapp.com:443
+[2019-12-09 16:37:02] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 16:37:02] [Info] Connect api.github.com:443
+[2019-12-09 16:37:02] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 16:37:07] [Info] Connect google.com:443
+[2019-12-09 16:37:08] [Info] Disconnect api.github.com:443
+[2019-12-09 16:37:09] [Info] Disconnect live.github.com:443
+[2019-12-09 16:37:12] [Info] Disconnect photos.google.com:443
+[2019-12-09 16:37:14] [Info] Disconnect apis.google.com:443
+[2019-12-09 16:37:14] [Info] Disconnect github.com:443
+[2019-12-09 16:40:17] ShadowsocksR started on port 1080
+[2019-12-09 16:40:18] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:40:18] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:40:18] [Info] Connect photos.google.com:443
+[2019-12-09 16:40:18] [Info] Connect apis.google.com:443
+[2019-12-09 16:40:18] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:40:18] [Info] Connect lh3.google.com:443
+[2019-12-09 16:40:20] [Info] Connect www.google.com:443
+[2019-12-09 16:40:20] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:40:20] [Info] Connect play.google.com:443
+[2019-12-09 16:40:20] [Info] Connect ogs.google.com:443
+[2019-12-09 16:40:20] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:40:26] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 16:40:30] [Info] Disconnect www.google.com:443
+[2019-12-09 16:40:35] [Info] Disconnect apis.google.com:443
+[2019-12-09 16:40:35] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 16:40:35] [Info] Disconnect lh3.google.com:443
+[2019-12-09 16:40:35] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 16:40:35] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 16:40:35] [Info] Disconnect ogs.google.com:443
+[2019-12-09 16:40:36] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:40:36] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:40:37] [Info] Connect apis.google.com:443
+[2019-12-09 16:40:37] [Info] Connect lh3.google.com:443
+[2019-12-09 16:40:37] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:40:37] [Info] Connect ogs.google.com:443
+[2019-12-09 16:40:37] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:40:37] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:40:37] [Info] Connect www.google.com:443
+[2019-12-09 16:40:41] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:40:43] [Info] Direct connect adservice.google.com:443
+[2019-12-09 16:40:45] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:40:45] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:40:48] [Info] Disconnect apis.google.com:443
+[2019-12-09 16:40:48] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 16:40:48] [Info] Disconnect lh3.google.com:443
+[2019-12-09 16:40:48] [Info] Connect play.google.com:443
+[2019-12-09 16:40:48] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-12-09 16:40:48] [Info] Disconnect ogs.google.com:443
+[2019-12-09 16:40:52] [Info] Connect lh3.googleusercontent.com:443
+[2019-12-09 16:40:56] [Info] Connect r3---sn-i3b7kn7r.googlevideo.com:443
+[2019-12-09 16:40:56] [Info] Connect r3---sn-npoeene6.googlevideo.com:443
+[2019-12-09 16:40:56] [Info] Disconnect r3---sn-i3b7kn7r.googlevideo.com:443
+[2019-12-09 16:40:56] [Info] Connect r1---sn-i3belnel.googlevideo.com:443
+[2019-12-09 16:40:57] [Info] Connect r1---sn-npoe7ne7.googlevideo.com:443
+[2019-12-09 16:40:57] [Info] Disconnect r1---sn-i3belnel.googlevideo.com:443
+[2019-12-09 16:41:05] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:41:05] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:41:06] [Info] Connect apis.google.com:443
+[2019-12-09 16:41:06] [Info] Connect lh3.google.com:443
+[2019-12-09 16:41:06] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:41:06] [Info] Connect ogs.google.com:443
+[2019-12-09 16:41:06] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:41:06] [Info] Disconnect r3---sn-npoeene6.googlevideo.com:443
+[2019-12-09 16:41:06] [Info] Disconnect r1---sn-npoe7ne7.googlevideo.com:443
+[2019-12-09 16:41:14] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:41:14] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:41:17] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 16:41:17] [Info] Disconnect lh3.google.com:443
+[2019-12-09 16:41:17] [Info] Disconnect ogs.google.com:443
+[2019-12-09 16:41:17] [Info] Disconnect apis.google.com:443
+[2019-12-09 16:41:22] [Info] Connect youtube.com:443
+[2019-12-09 16:41:22] [Info] Connect youtube.com:443
+[2019-12-09 16:41:22] [Info] Connect www.youtube.com:443
+[2019-12-09 16:41:22] [Info] Disconnect youtube.com:443
+[2019-12-09 16:41:23] [Info] Connect i.ytimg.com:443
+[2019-12-09 16:41:23] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 16:41:23] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 16:41:23] [Info] Connect yt3.ggpht.com:443
+[2019-12-09 16:41:23] [Info] Connect yt3.ggpht.com:443
+[2019-12-09 16:41:23] [Info] Disconnect yt3.ggpht.com:443
+[2019-12-09 16:41:24] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 16:41:25] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-12-09 16:41:27] [Info] Connect clients1.google.com:443
+[2019-12-09 16:41:28] [Info] Connect www.google.com.hk:443
+[2019-12-09 16:41:29] [Info] Connect s.ytimg.com:443
+[2019-12-09 16:41:32] [Info] Connect studio.youtube.com:443
+[2019-12-09 16:41:32] [Info] Connect studio.youtube.com:443
+[2019-12-09 16:41:32] [Info] Connect s.ytimg.com:443
+[2019-12-09 16:41:32] [Info] Connect www.youtube.com:443
+[2019-12-09 16:41:37] [Info] Connect i9.ytimg.com:443
+[2019-12-09 16:41:44] [Info] Direct connect ssl.gstatic.com:443
+[2019-12-09 16:41:45] [Info] Disconnect studio.youtube.com:443
+[2019-12-09 16:42:07] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 16:42:20] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:42:21] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:22] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:23] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:23] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:23] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:23] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:23] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:24] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:32] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:42:33] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:09] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:43:10] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:11] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:23] [Info] Connect chrome-devtools-frontend.appspot.com:443
+[2019-12-09 16:43:23] [Info] Disconnect youtube.com:443
+[2019-12-09 16:43:25] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-12-09 16:43:27] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:27] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:28] [Info] Disconnect i.ytimg.com:443
+[2019-12-09 16:43:28] [Info] Disconnect www.google.com:443
+[2019-12-09 16:43:28] [Info] Disconnect www.google.com.hk:443
+[2019-12-09 16:43:33] [Info] Disconnect www.youtube.com:443
+[2019-12-09 16:43:33] [Info] Disconnect s.ytimg.com:443
+[2019-12-09 16:43:35] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 16:43:37] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:38] [Info] Disconnect yt3.ggpht.com:443
+[2019-12-09 16:43:38] [Info] Disconnect s.ytimg.com:443
+[2019-12-09 16:43:41] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 16:43:50] [Info] Disconnect i9.ytimg.com:443
+[2019-12-09 16:43:53] [Info] Disconnect www.youtube.com:443
+[2019-12-09 16:43:53] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:53] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:54] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:43:55] [Info] Direct connect 47.103.204.220:80
+[2019-12-09 16:44:10] [Info] Disconnect studio.youtube.com:443
+[2019-12-09 19:54:41] ShadowsocksR started on port 1080
+[2019-12-09 19:54:46] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:54:46] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:54:47] [Info] Connect medium.com:443
+[2019-12-09 19:54:47] [Info] Connect medium.com:443
+[2019-12-09 19:54:49] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:54:49] [Info] Connect cdn-static-1.medium.com:443
+[2019-12-09 19:54:49] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 19:54:49] [Info] Connect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 19:54:50] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 19:54:50] [Info] Connect clients1.google.com:443
+[2019-12-09 19:54:50] [Info] Connect cdn.branch.io:443
+[2019-12-09 19:54:50] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 19:54:50] [Info] Connect app.link:443
+[2019-12-09 19:54:51] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 19:54:51] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 19:54:51] [Info] Connect srv-2019-12-09-11.pixel.parsely.com:443
+[2019-12-09 19:54:52] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:54:52] [Info] Connect api2.branch.io:443
+[2019-12-09 19:54:55] [Info] Connect collector-medium.lightstep.com:443
+[2019-12-09 19:54:58] [Info] Connect miro.medium.com:443
+[2019-12-09 19:54:58] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:58] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 19:54:59] [Info] Connect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:54:59] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:55:04] [Info] Direct connect www.zhihu.com:443
+[2019-12-09 19:55:04] [Info] Direct connect static.zhihu.com:443
+[2019-12-09 19:55:05] [Info] Disconnect medium.com:443
+[2019-12-09 19:55:05] [Info] Direct connect unpkg.zhimg.com:443
+[2019-12-09 19:55:05] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 19:55:06] [Info] Direct connect unpkg.zhimg.com:443
+[2019-12-09 19:55:06] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 19:55:07] [Info] Connect mqtt-web.zhihu.com:443
+[2019-12-09 19:55:07] [Info] Direct connect pic3.zhimg.com:443
+[2019-12-09 19:55:07] [Info] Direct connect pic4.zhimg.com:443
+[2019-12-09 19:55:08] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2019-12-09 19:55:08] [Info] Direct connect pic2.zhimg.com:443
+[2019-12-09 19:55:08] [Info] Connect logx.optimizely.com:443
+[2019-12-09 19:55:09] [Info] Direct connect sugar.zhihu.com:443
+[2019-12-09 19:55:12] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 19:55:12] [Info] Direct connect update.googleapis.com:443
+[2019-12-09 19:55:28] [Info] Connect google.com:443
+[2019-12-09 19:55:44] [Info] Disconnect logx.optimizely.com:443
+[2019-12-09 19:55:45] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 19:55:45] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:55:48] [Info] Direct connect blog.orzsiyuan.com:80
+[2019-12-09 19:55:48] [Info] Direct connect blog.orzsiyuan.com:443
+[2019-12-09 19:55:49] [Info] Direct connect upload.orzsiyuan.com:443
+[2019-12-09 19:55:49] [Info] Direct connect upload.orzsiyuan.com:80
+[2019-12-09 19:55:49] [Info] Direct connect cdn.staticfile.org:443
+[2019-12-09 19:55:49] [Info] Direct connect cdn.staticfile.org:443
+[2019-12-09 19:55:50] [Info] Connect cdn.mathjax.org:443
+[2019-12-09 19:55:50] [Info] Disconnect app.link:443
+[2019-12-09 19:55:53] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 19:55:57] [Info] Connect www.google.com:443
+[2019-12-09 19:55:58] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:55:58] [Info] Disconnect cdn.branch.io:443
+[2019-12-09 19:56:00] [Info] Direct connect www.gstatic.com:80
+[2019-12-09 19:56:00] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 19:56:01] [Info] Connect www.google.com:443
+[2019-12-09 19:56:02] [Info] Disconnect www.google.com:443
+[2019-12-09 19:56:02] [Info] Disconnect srv-2019-12-09-11.pixel.parsely.com:443
+[2019-12-09 19:56:05] [Info] Connect medium.com:443
+[2019-12-09 19:56:05] [Info] Connect medium.com:443
+[2019-12-09 19:56:06] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:12] [Info] Connect cdn.branch.io:443
+[2019-12-09 19:56:17] [Info] Connect cdn.branch.io:443
+[2019-12-09 19:56:22] [Info] Connect cdn.branch.io:443
+[2019-12-09 19:56:23] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:23] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:23] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:23] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:23] [Info] Disconnect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 19:56:23] [Info] Disconnect google.com:443
+[2019-12-09 19:56:23] [Info] Disconnect cdn.mathjax.org:443
+[2019-12-09 19:56:23] [Info] Disconnect cdn-static-1.medium.com:443
+[2019-12-09 19:56:23] [Info] Disconnect clients1.google.com:443
+[2019-12-09 19:56:23] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:23] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 19:56:24] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:24] [Info] Disconnect api2.branch.io:443
+[2019-12-09 19:56:24] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 19:56:24] [Info] Disconnect cdn-client.medium.com:443
+[2019-12-09 19:56:24] [Info] Disconnect miro.medium.com:443
+[2019-12-09 19:56:24] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:28] [Info] Disconnect cdn.branch.io:443
+[2019-12-09 19:56:28] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:28] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:28] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:29] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:29] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:31] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 19:56:32] [Info] Disconnect www.google.com:443
+[2019-12-09 19:56:33] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:33] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:33] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:34] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:34] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:56:35] [Info] Connect medium.com:443
+[2019-12-09 19:56:36] [Info] Connect medium.com:443
+[2019-12-09 19:56:37] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 19:56:37] [Info] Connect medium.com:443
+[2019-12-09 19:56:37] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 19:56:37] [Info] Connect medium.com:443
+[2019-12-09 19:56:38] [Info] Connect medium.com:443
+[2019-12-09 19:56:38] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:38] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2019-12-09 19:56:38] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:38] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:38] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:39] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:40] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:56:40] [Info] Connect medium.com:443
+[2019-12-09 19:56:41] [Info] Connect medium.com:443
+[2019-12-09 19:56:42] [Info] Connect cdn-images-1.medium.com:443
+[2019-12-09 19:56:42] [Info] Connect medium.com:443
+[2019-12-09 19:56:42] [Info] Connect medium.com:443
+[2019-12-09 19:56:43] [Info] Connect medium.com:443
+[2019-12-09 19:56:45] [Info] Connect medium.com:443
+[2019-12-09 19:56:46] [Info] Connect medium.com:443
+[2019-12-09 19:56:47] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-12-09 19:56:47] [Info] Connect medium.com:443
+[2019-12-09 19:56:48] [Info] Connect medium.com:443
+[2019-12-09 19:56:48] [Info] Connect medium.com:443
+[2019-12-09 19:56:51] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:52] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:52] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:53] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:53] [Info] Disconnect medium.com:443
+[2019-12-09 19:56:58] [Info] Connect medium.com:443
+[2019-12-09 19:56:58] [Info] Connect accounts.google.com:443
+[2019-12-09 19:56:59] [Info] Disconnect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:00] [Info] Connect www.google.com:443
+[2019-12-09 19:57:01] [Info] Connect medium.com:443
+[2019-12-09 19:57:03] [Info] Connect medium.com:443
+[2019-12-09 19:57:03] [Info] Connect medium.com:443
+[2019-12-09 19:57:03] [Info] Connect accounts.google.com:443
+[2019-12-09 19:57:04] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:57:04] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 19:57:05] [Info] Connect www.google.com:443
+[2019-12-09 19:57:05] [Info] Connect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:07] [Info] Connect medium.com:443
+[2019-12-09 19:57:08] [Info] Connect medium.com:443
+[2019-12-09 19:57:09] [Info] Connect medium.com:443
+[2019-12-09 19:57:09] [Info] Connect accounts.google.com:443
+[2019-12-09 19:57:10] [Info] Connect www.google.com:443
+[2019-12-09 19:57:10] [Info] Connect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:12] [Info] Connect medium.com:443
+[2019-12-09 19:57:14] [Info] Disconnect medium.com:443
+[2019-12-09 19:57:14] [Info] Connect medium.com:443
+[2019-12-09 19:57:14] [Info] Disconnect accounts.google.com:443
+[2019-12-09 19:57:15] [Info] Disconnect www.google.com:443
+[2019-12-09 19:57:15] [Info] Connect www.google.com:443
+[2019-12-09 19:57:15] [Info] Connect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:17] [Info] Disconnect medium.com:443
+[2019-12-09 19:57:19] [Info] Disconnect medium.com:443
+[2019-12-09 19:57:20] [Info] Connect www.google.com:443
+[2019-12-09 19:57:20] [Info] Connect www.google.com:443
+[2019-12-09 19:57:21] [Info] Disconnect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:21] [Info] Direct connect adservice.google.com:443
+[2019-12-09 19:57:22] [Info] Connect clients5.google.com:443
+[2019-12-09 19:57:22] [Info] Connect medium.com:443
+[2019-12-09 19:57:25] [Info] Connect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:31] [Info] Disconnect www.google.com:443
+[2019-12-09 19:57:38] [Info] Connect clients1.google.com:443
+[2019-12-09 19:57:38] [Info] Direct connect www.zhihu.com:443
+[2019-12-09 19:57:39] [Info] Direct connect pic2.zhimg.com:443
+[2019-12-09 19:57:39] [Info] Direct connect pic4.zhimg.com:443
+[2019-12-09 19:57:39] [Info] Direct connect pic3.zhimg.com:443
+[2019-12-09 19:57:39] [Info] Direct connect pic1.zhimg.com:443
+[2019-12-09 19:57:39] [Info] Direct connect sugar.zhihu.com:443
+[2019-12-09 19:57:41] [Info] Disconnect medium.com:443
+[2019-12-09 19:57:44] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 19:57:44] [Info] Disconnect mqtt-web.zhihu.com:443
+[2019-12-09 19:57:45] [Info] Direct connect blog.orzsiyuan.com:443
+[2019-12-09 19:57:50] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:57:52] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:57:52] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:57:55] [Info] Direct connect memset0.cn:80
+[2019-12-09 19:57:55] [Info] Direct connect memset0.cn:443
+[2019-12-09 19:57:55] [Info] Connect cert.int-x3.letsencrypt.org:80
+[2019-12-09 19:57:55] [Info] Disconnect cert.int-x3.letsencrypt.org:80
+[2019-12-09 19:57:55] [Info] Direct connect memset0.cn:443
+[2019-12-09 19:57:55] [Info] Direct connect memset0.cn:443
+[2019-12-09 19:57:55] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-12-09 19:57:55] [Info] Direct connect cdn.bootcss.com:443
+[2019-12-09 19:57:55] [Info] Direct connect cdn.bootcss.com:443
+[2019-12-09 19:57:55] [Info] Connect busuanzi.ibruce.info:443
+[2019-12-09 19:57:56] [Info] Direct connect hm.baidu.com:443
+[2019-12-09 19:57:56] [Info] Direct connect cdn.bootcss.com:443
+[2019-12-09 19:58:07] [Info] Direct connect www.luogu.com.cn:443
+[2019-12-09 19:58:16] [Info] Disconnect collector-medium.lightstep.com:443
+[2019-12-09 19:58:22] [Info] Connect accounts.google.com:443
+[2019-12-09 19:58:22] [Info] Connect google.com:443
+[2019-12-09 19:59:07] [Info] Connect glyph.medium.com:443
+[2019-12-09 19:59:07] [Info] Connect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 19:59:08] [Info] Connect cdn.optimizely.com:443
+[2019-12-09 19:59:08] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 19:59:09] [Info] Connect a16180790160.cdn.optimizely.com:443
+[2019-12-09 19:59:11] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:59:12] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 19:59:13] [Debug] DNS query fail: adservice.google.cn
+[2019-12-09 19:59:13] [Info] Connect adservice.google.cn:443
+[2019-12-09 19:59:14] [Info] Disconnect adservice.google.cn:443
+[2019-12-09 19:59:22] [Info] Disconnect a16180790160.cdn.optimizely.com:443
+[2019-12-09 19:59:25] [Info] Disconnect clients5.google.com:443
+[2019-12-09 19:59:27] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 19:59:27] [Info] Disconnect glyph.medium.com:443
+[2019-12-09 19:59:27] [Info] Disconnect d1z2jf7jlzjs58.cloudfront.net:443
+[2019-12-09 19:59:27] [Info] Connect id.google.com:443
+[2019-12-09 19:59:28] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 19:59:31] [Info] Direct connect www.googleadservices.com:443
+[2019-12-09 19:59:42] [Info] Connect minergate.com:443
+[2019-12-09 19:59:42] [Info] Connect minergate.com:443
+[2019-12-09 19:59:44] [Info] Connect blog.minergate.com:443
+[2019-12-09 19:59:44] [Info] Connect blog.minergate.com:443
+[2019-12-09 19:59:45] [Info] Connect blog.minergate.com:443
+[2019-12-09 19:59:46] [Info] Connect fonts.googleapis.com:443
+[2019-12-09 19:59:46] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 19:59:48] [Info] Connect use.fontawesome.com:443
+[2019-12-09 19:59:48] [Info] Connect blog.minergate.com:443
+[2019-12-09 19:59:48] [Info] Connect blog.minergate.com:443
+[2019-12-09 19:59:49] [Info] Disconnect cdn.optimizely.com:443
+[2019-12-09 19:59:51] [Info] Connect secure.gravatar.com:443
+[2019-12-09 19:59:51] [Info] Connect raw.githubusercontent.com:443
+[2019-12-09 19:59:52] [Info] Direct connect www.googletagmanager.com:443
+[2019-12-09 19:59:52] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 19:59:52] [Info] Connect static.addtoany.com:443
+[2019-12-09 19:59:52] [Info] Connect ampcid.google.com:443
+[2019-12-09 19:59:52] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 19:59:53] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-12-09 19:59:53] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 19:59:57] [Info] Disconnect busuanzi.ibruce.info:443
+[2019-12-09 19:59:58] [Info] Disconnect minergate.com:443
+[2019-12-09 20:00:15] [Info] Direct connect google.cn:443
+[2019-12-09 20:00:15] [Info] Connect encrypted-vtbn1.gstatic.com:443
+[2019-12-09 20:00:18] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 20:00:18] [Info] Direct connect translate.googleapis.com:443
+[2019-12-09 20:00:18] [Info] Connect translate.google.com:443
+[2019-12-09 20:00:18] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 20:00:24] [Info] Disconnect accounts.google.com:443
+[2019-12-09 20:00:26] [Info] Disconnect google.com:443
+[2019-12-09 20:00:35] [Info] Disconnect use.fontawesome.com:443
+[2019-12-09 20:00:48] [Info] Connect google.com:443
+[2019-12-09 20:00:49] [Info] Disconnect minergate.com:443
+[2019-12-09 20:00:58] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:01:03] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:03] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:04] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 20:01:05] [Info] Connect s2.googleusercontent.com:443
+[2019-12-09 20:01:05] [Info] Connect blog.minergate.com:443
+[2019-12-09 20:01:06] [Info] Connect s2.googleusercontent.com:443
+[2019-12-09 20:01:06] [Info] Disconnect id.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect medium.com:443
+[2019-12-09 20:01:06] [Info] Disconnect secure.gravatar.com:443
+[2019-12-09 20:01:06] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect fonts.googleapis.com:443
+[2019-12-09 20:01:06] [Info] Disconnect clients1.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect encrypted-vtbn1.gstatic.com:443
+[2019-12-09 20:01:06] [Info] Disconnect ampcid.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect static.addtoany.com:443
+[2019-12-09 20:01:06] [Info] Disconnect myactivity.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect translate.google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect google.com:443
+[2019-12-09 20:01:06] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:08] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:08] [Info] Connect s2.googleusercontent.com:443
+[2019-12-09 20:01:09] [Info] Disconnect s2.googleusercontent.com:443
+[2019-12-09 20:01:09] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:09] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:09] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:09] [Info] Disconnect s2.googleusercontent.com:443
+[2019-12-09 20:01:09] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:09] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:10] [Info] Direct connect fonts.gstatic.com:443
+[2019-12-09 20:01:11] [Info] Disconnect blog.minergate.com:443
+[2019-12-09 20:01:16] [Info] Connect clients1.google.com:443
+[2019-12-09 20:01:18] [Debug] DNS query fail: encrypted.google.com
+[2019-12-09 20:01:18] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:18] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:18] [Info] Disconnect myactivity.google.com:443
+[2019-12-09 20:01:18] [Info] Disconnect clients1.google.com:443
+[2019-12-09 20:01:18] [Info] Disconnect s2.googleusercontent.com:443
+[2019-12-09 20:01:18] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:18] [Debug] DNS query fail: avatars0.githubusercontent.com
+[2019-12-09 20:01:18] [Info] Connect avatars0.githubusercontent.com:443
+[2019-12-09 20:01:18] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 20:01:19] [Debug] DNS query fail: h.pincong.rocks
+[2019-12-09 20:01:19] [Info] Connect h.pincong.rocks:443
+[2019-12-09 20:01:19] [Debug] DNS query fail: workers.cloudflare.com
+[2019-12-09 20:01:19] [Info] Connect workers.cloudflare.com:443
+[2019-12-09 20:01:19] [Debug] DNS query fail: gss0.baidu.com
+[2019-12-09 20:01:19] [Info] Connect gss0.baidu.com:443
+[2019-12-09 20:01:19] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:19] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:19] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:19] [Info] Connect www.google.com:443
+[2019-12-09 20:01:19] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:19] [Info] Connect www.google.com:443
+[2019-12-09 20:01:20] [Debug] DNS query fail: cdn.luogu.com.cn
+[2019-12-09 20:01:20] [Info] Connect cdn.luogu.com.cn:443
+[2019-12-09 20:01:20] [Info] Connect www.google.com:443
+[2019-12-09 20:01:20] [Info] Connect www.google.com:443
+[2019-12-09 20:01:20] [Info] Connect www.google.com:443
+[2019-12-09 20:01:20] [Info] Connect www.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:20] [Info] Connect cdn.v2ex.com:443
+[2019-12-09 20:01:20] [Info] Connect i.ytimg.com:443
+[2019-12-09 20:01:20] [Info] Connect upload.wikimedia.org:443
+[2019-12-09 20:01:20] [Info] Direct connect i0.hdslb.com:443
+[2019-12-09 20:01:20] [Info] Connect cdn.v2ex.com:443
+[2019-12-09 20:01:20] [Info] Connect i.ytimg.com:443
+[2019-12-09 20:01:20] [Info] Direct connect i1.hdslb.com:443
+[2019-12-09 20:01:20] [Info] Connect play.google.com:443
+[2019-12-09 20:01:20] [Info] Connect play.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect www.google.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Connect minergate.com:443
+[2019-12-09 20:01:20] [Info] Direct connect images2015.cnblogs.com:443
+[2019-12-09 20:01:20] [Info] Connect minergate.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Direct connect cdn.luogu.org:443
+[2019-12-09 20:01:20] [Info] Connect play.google.com:443
+[2019-12-09 20:01:20] [Info] Connect play.google.com:443
+[2019-12-09 20:01:20] [Info] Direct connect 517coding.com:443
+[2019-12-09 20:01:20] [Info] Connect 1.1.1.1:443
+[2019-12-09 20:01:20] [Info] Disconnect cdn.v2ex.com:443
+[2019-12-09 20:01:20] [Info] Disconnect play.google.com:443
+[2019-12-09 20:01:20] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:20] [Info] Disconnect play.google.com:443
+[2019-12-09 20:01:21] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:21] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Direct connect images0.cnblogs.com:443
+[2019-12-09 20:01:21] [Info] Connect blog-cloudflare-com-assets.storage.googleapis.com:443
+[2019-12-09 20:01:21] [Info] Connect s2.googleusercontent.com:443
+[2019-12-09 20:01:21] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:21] [Info] Connect x.lihkg.com:443
+[2019-12-09 20:01:21] [Info] Connect ip.bitcointalk.org:443
+[2019-12-09 20:01:21] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Connect s2.googleusercontent.com:443
+[2019-12-09 20:01:21] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Disconnect i.ytimg.com:443
+[2019-12-09 20:01:21] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-12-09 20:01:21] [Info] Connect www.pcmarket.com.hk:443
+[2019-12-09 20:01:21] [Info] Disconnect s2.googleusercontent.com:443
+[2019-12-09 20:01:21] [Info] Direct connect i.natfrp.org:443
+[2019-12-09 20:01:21] [Info] Direct connect 517coding.com:443
+[2019-12-09 20:01:21] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:21] [Info] Connect www.bittorrent.com:443
+[2019-12-09 20:01:22] [Info] Disconnect www.bittorrent.com:443
+[2019-12-09 20:01:22] [Info] Connect www.bittorrent.com:443
+[2019-12-09 20:01:22] [Info] Disconnect www.bittorrent.com:443
+[2019-12-09 20:01:25] [Info] Connect minergate.com:443
+[2019-12-09 20:01:25] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:25] [Info] Connect 1.1.1.1:443
+[2019-12-09 20:01:26] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:27] [Info] Disconnect www.pcmarket.com.hk:443
+[2019-12-09 20:01:27] [Info] Direct connect www.gstatic.com:443
+[2019-12-09 20:01:30] [Info] Connect minergate.com:443
+[2019-12-09 20:01:30] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:31] [Info] Connect 1.1.1.1:443
+[2019-12-09 20:01:31] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-09 20:01:31] [Info] Connect encrypted.google.com:443
+[2019-12-09 20:01:32] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:36] [Info] Disconnect minergate.com:443
+[2019-12-09 20:01:36] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:01:36] [Info] Disconnect 1.1.1.1:443
+[2019-12-09 20:01:36] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:38] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:39] [Info] Disconnect minergate.com:443
+[2019-12-09 20:01:39] [Info] Disconnect ip.bitcointalk.org:443
+[2019-12-09 20:01:40] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:01:40] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:01:40] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:01:41] [Info] Disconnect gss0.baidu.com:443
+[2019-12-09 20:01:42] [Info] Disconnect cdn.luogu.com.cn:443
+[2019-12-09 20:01:43] [Info] Connect myactivity.google.com:443
+[2019-12-09 20:01:43] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:43] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:45] [Info] Disconnect encrypted.google.com:443
+[2019-12-09 20:01:48] [Info] Disconnect myactivity.google.com:443
+[2019-12-09 20:01:48] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:48] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:49] [Info] Disconnect play.google.com:443
+[2019-12-09 20:01:52] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-12-09 20:01:53] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:53] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:59] [Info] Disconnect pincong.rocks:443
+[2019-12-09 20:01:59] [Info] Disconnect pincong.rocks:443
+[2019-12-09 20:01:59] [Info] Connect pincong.rocks:443
+[2019-12-09 20:01:59] [Info] Connect pincong.rocks:443
+[2019-12-09 20:02:04] [Info] Connect pincong.rocks:443
+[2019-12-09 20:02:04] [Info] Connect pincong.rocks:443
+[2019-12-09 20:02:05] [Info] Disconnect pincong.rocks:443
+[2019-12-09 20:02:16] [Info] Connect h.pincong.rocks:443
+[2019-12-09 20:02:16] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 20:02:21] [Info] Connect h.pincong.rocks:443
+[2019-12-09 20:02:26] [Info] Connect h.pincong.rocks:443
+[2019-12-09 20:02:27] [Info] Disconnect pincong.rocks:443
+[2019-12-09 20:02:28] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:02:29] [Info] Direct connect suggestion.baidu.com:443
+[2019-12-09 20:02:30] [Info] Connect pincong.rocks:443
+[2019-12-09 20:03:06] [Info] Connect google.com:443
+[2019-12-09 20:03:21] [Info] Disconnect cdn.v2ex.com:443
+[2019-12-09 20:03:21] [Info] Disconnect play.google.com:443
+[2019-12-09 20:03:21] [Info] Disconnect workers.cloudflare.com:443
+[2019-12-09 20:03:21] [Info] Disconnect i.ytimg.com:443
+[2019-12-09 20:03:21] [Info] Disconnect upload.wikimedia.org:443
+[2019-12-09 20:03:21] [Info] Disconnect blog-cloudflare-com-assets.storage.googleapis.com:443
+[2019-12-09 20:03:21] [Info] Disconnect x.lihkg.com:443
+[2019-12-09 20:03:23] [Info] Disconnect www.google.com:443
+[2019-12-09 20:03:23] [Info] Disconnect s2.googleusercontent.com:443
+[2019-12-09 20:03:23] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-12-09 20:03:33] [Info] Connect www.theguardian.com:443
+[2019-12-09 20:03:33] [Info] Connect www.theguardian.com:443
+[2019-12-09 20:03:33] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:33] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:33] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:33] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:33] [Info] Connect i.guim.co.uk:443
+[2019-12-09 20:03:33] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Connect interactive.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:34] [Info] Connect phar.gu-web.net:443
+[2019-12-09 20:03:34] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-12-09 20:03:34] [Info] Connect clients1.google.com:443
+[2019-12-09 20:03:34] [Info] Connect sb.scorecardresearch.com:443
+[2019-12-09 20:03:34] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:35] [Info] Connect phar.gu-web.net:443
+[2019-12-09 20:03:35] [Info] Connect www.reddit.com:443
+[2019-12-09 20:03:35] [Info] Connect www.reddit.com:443
+[2019-12-09 20:03:35] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:36] [Info] Connect support.theguardian.com:443
+[2019-12-09 20:03:36] [Info] Connect ad.crwdcntrl.net:443
+[2019-12-09 20:03:36] [Info] Disconnect interactive.guim.co.uk:443
+[2019-12-09 20:03:36] [Info] Disconnect phar.gu-web.net:443
+[2019-12-09 20:03:37] [Info] Disconnect phar.gu-web.net:443
+[2019-12-09 20:03:37] [Info] Disconnect sb.scorecardresearch.com:443
+[2019-12-09 20:03:37] [Info] Disconnect www.reddit.com:443
+[2019-12-09 20:03:37] [Info] Disconnect www.theguardian.com:443
+[2019-12-09 20:03:37] [Info] Disconnect pincong.rocks:443
+[2019-12-09 20:03:37] [Info] Disconnect support.theguardian.com:443
+[2019-12-09 20:03:37] [Info] Disconnect google.com:443
+[2019-12-09 20:03:37] [Info] Disconnect www.reddit.com:443
+[2019-12-09 20:03:37] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:37] [Info] Disconnect www.theguardian.com:443
+[2019-12-09 20:03:37] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:37] [Info] Disconnect clients1.google.com:443
+[2019-12-09 20:03:37] [Info] Disconnect h.pincong.rocks:443
+[2019-12-09 20:03:37] [Info] Disconnect i.guim.co.uk:443
+[2019-12-09 20:03:37] [Info] Connect confiant-integrations.global.ssl.fastly.net:443
+[2019-12-09 20:03:37] [Info] Connect interactive.guim.co.uk:443
+[2019-12-09 20:03:37] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:37] [Info] Direct connect www.googletagservices.com:443
+[2019-12-09 20:03:37] [Info] Connect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:37] [Info] Connect secure-au.imrworldwide.com:443
+[2019-12-09 20:03:37] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:42] [Info] Connect media.guim.co.uk:443
+[2019-12-09 20:03:42] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:42] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:42] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:42] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:42] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 20:03:42] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:42] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:42] [Info] Direct connect adservice.google.com:443
+[2019-12-09 20:03:42] [Info] Connect confiant-integrations.global.ssl.fastly.net:443
+[2019-12-09 20:03:42] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:42] [Info] Direct connect www.google-analytics.com:443
+[2019-12-09 20:03:42] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:42] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:42] [Info] Connect www.theguardian.com:443
+[2019-12-09 20:03:42] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:42] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:42] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-12-09 20:03:42] [Info] Connect cdn-gl.imrworldwide.com:443
+[2019-12-09 20:03:42] [Info] Connect cdn-gl.imrworldwide.com:443
+[2019-12-09 20:03:43] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:43] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:43] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:43] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:43] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:43] [Info] Connect i.guim.co.uk:443
+[2019-12-09 20:03:44] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:44] [Info] Disconnect cdn-gl.imrworldwide.com:443
+[2019-12-09 20:03:44] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-12-09 20:03:44] [Info] Connect as-sec.casalemedia.com:443
+[2019-12-09 20:03:44] [Info] Connect elb.the-ozone-project.com:443
+[2019-12-09 20:03:44] [Info] Connect ib.adnxs.com:443
+[2019-12-09 20:03:44] [Info] Connect hbopenbid.pubmatic.com:443
+[2019-12-09 20:03:44] [Info] Connect guardian-d.openx.net:443
+[2019-12-09 20:03:44] [Info] Connect ice.360yield.com:443
+[2019-12-09 20:03:44] [Info] Connect phar.gu-web.net:443
+[2019-12-09 20:03:44] [Info] Connect b.thumbs.redditmedia.com:443
+[2019-12-09 20:03:44] [Info] Connect preview.redd.it:443
+[2019-12-09 20:03:44] [Info] Disconnect ad.crwdcntrl.net:443
+[2019-12-09 20:03:44] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-12-09 20:03:45] [Info] Connect secure-gl.imrworldwide.com:443
+[2019-12-09 20:03:45] [Info] Connect as-sec.casalemedia.com:443
+[2019-12-09 20:03:45] [Info] Connect ib.adnxs.com:443
+[2019-12-09 20:03:45] [Info] Connect gql.reddit.com:443
+[2019-12-09 20:03:45] [Info] Disconnect confiant-integrations.global.ssl.fastly.net:443
+[2019-12-09 20:03:45] [Info] Disconnect confiant-integrations.global.ssl.fastly.net:443
+[2019-12-09 20:03:45] [Info] Disconnect ib.adnxs.com:443
+[2019-12-09 20:03:45] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:46] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:46] [Info] Connect choices.truste.com:443
+[2019-12-09 20:03:46] [Info] Connect cdn.doubleverify.com:443
+[2019-12-09 20:03:46] [Info] Connect cdn.doubleverify.com:443
+[2019-12-09 20:03:46] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:46] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:46] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:46] [Info] Disconnect phar.gu-web.net:443
+[2019-12-09 20:03:46] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:46] [Info] Disconnect media.guim.co.uk:443
+[2019-12-09 20:03:46] [Info] Disconnect ice.360yield.com:443
+[2019-12-09 20:03:46] [Info] Disconnect www.theguardian.com:443
+[2019-12-09 20:03:46] [Info] Disconnect preview.redd.it:443
+[2019-12-09 20:03:46] [Info] Disconnect guardian-d.openx.net:443
+[2019-12-09 20:03:46] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:46] [Info] Disconnect hbopenbid.pubmatic.com:443
+[2019-12-09 20:03:46] [Info] Connect sg2-bid.adsrvr.org:443
+[2019-12-09 20:03:46] [Info] Disconnect i.guim.co.uk:443
+[2019-12-09 20:03:46] [Info] Disconnect secure-au.imrworldwide.com:443
+[2019-12-09 20:03:46] [Info] Connect hb-api.omnitagjs.com:443
+[2019-12-09 20:03:46] [Info] Disconnect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:46] [Info] Disconnect interactive.guim.co.uk:443
+[2019-12-09 20:03:46] [Info] Connect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:46] [Info] Connect protected-by.clarium.io:443
+[2019-12-09 20:03:46] [Info] Connect www.redditmedia.com:443
+[2019-12-09 20:03:47] [Info] Connect sin3-ib.adnxs.com:443
+[2019-12-09 20:03:47] [Info] Connect www.facebook.com:443
+[2019-12-09 20:03:47] [Info] Connect www.reddit.com:443
+[2019-12-09 20:03:47] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:47] [Info] Connect cdn3.doubleverify.com:443
+[2019-12-09 20:03:47] [Info] Connect hb-api.omnitagjs.com:443
+[2019-12-09 20:03:47] [Info] Connect ice.360yield.com:443
+[2019-12-09 20:03:47] [Info] Connect hbopenbid.pubmatic.com:443
+[2019-12-09 20:03:47] [Info] Connect guardian-d.openx.net:443
+[2019-12-09 20:03:47] [Info] Connect rtb2.doubleverify.com:443
+[2019-12-09 20:03:47] [Info] Connect ssl.trustwave.com:80
+[2019-12-09 20:03:47] [Info] Connect sg2-bid.adsrvr.org:443
+[2019-12-09 20:03:47] [Info] Connect protected-by.clarium.io:443
+[2019-12-09 20:03:47] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-12-09 20:03:47] [Info] Connect a911.casalemedia.com:443
+[2019-12-09 20:03:47] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:47] [Info] Disconnect ophan.theguardian.com:443
+[2019-12-09 20:03:48] [Info] Connect rtb2.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-12-09 20:03:48] [Info] Connect assets.guim.co.uk:443
+[2019-12-09 20:03:48] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-12-09 20:03:48] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:48] [Info] Disconnect cdn.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Disconnect cdn.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Direct connect www.googletagservices.com:443
+[2019-12-09 20:03:48] [Info] Connect tps708.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Disconnect cdn3.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Disconnect cdn-gl.imrworldwide.com:443
+[2019-12-09 20:03:48] [Info] Disconnect choices.truste.com:443
+[2019-12-09 20:03:48] [Info] Disconnect gql.reddit.com:443
+[2019-12-09 20:03:48] [Info] Disconnect ib.adnxs.com:443
+[2019-12-09 20:03:48] [Info] Disconnect sin3-ib.adnxs.com:443
+[2019-12-09 20:03:48] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:48] [Info] Disconnect www.facebook.com:443
+[2019-12-09 20:03:48] [Info] Disconnect b.thumbs.redditmedia.com:443
+[2019-12-09 20:03:48] [Info] Disconnect www.reddit.com:443
+[2019-12-09 20:03:48] [Info] Connect tps708.doubleverify.com:443
+[2019-12-09 20:03:48] [Info] Connect elb.the-ozone-project.com:443
+[2019-12-09 20:03:48] [Info] Connect ib.adnxs.com:443
+[2019-12-09 20:03:48] [Info] Disconnect www.redditmedia.com:443
+[2019-12-09 20:03:48] [Info] Disconnect elb.the-ozone-project.com:443
+[2019-12-09 20:03:48] [Info] Disconnect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:48] [Info] Disconnect secure-gl.imrworldwide.com:443
+[2019-12-09 20:03:48] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:48] [Info] Disconnect ice.360yield.com:443
+[2019-12-09 20:03:49] [Info] Disconnect guardian-d.openx.net:443
+[2019-12-09 20:03:49] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-12-09 20:03:49] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-12-09 20:03:49] [Info] Connect ads.pubmatic.com:443
+[2019-12-09 20:03:49] [Info] Connect u.openx.net:443
+[2019-12-09 20:03:49] [Info] Connect pixel.mathtag.com:443
+[2019-12-09 20:03:49] [Info] Connect ads.smartstream.tv:443
+[2019-12-09 20:03:49] [Info] Connect sync.widespace.com:443
+[2019-12-09 20:03:49] [Info] Connect pixel.mathtag.com:443
+[2019-12-09 20:03:49] [Info] Direct connect ad.doubleclick.net:443
+[2019-12-09 20:03:49] [Info] Direct connect ad.doubleclick.net:443
+[2019-12-09 20:03:49] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:49] [Info] Connect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:49] [Info] Disconnect a911.casalemedia.com:443
+[2019-12-09 20:03:49] [Info] Connect ice.360yield.com:443
+[2019-12-09 20:03:49] [Info] Connect fra1-ib.adnxs.com:443
+[2019-12-09 20:03:49] [Info] Connect www.redditmedia.com:443
+[2019-12-09 20:03:49] [Info] Connect jp-u.openx.net:443
+[2019-12-09 20:03:49] [Info] Direct connect match.adsrvr.org:443
+[2019-12-09 20:03:49] [Info] Disconnect ssl.trustwave.com:80
+[2019-12-09 20:03:49] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2019-12-09 20:03:49] [Info] Disconnect sg2-bid.adsrvr.org:443
+[2019-12-09 20:03:49] [Info] Connect acdn.adnxs.com:443
+[2019-12-09 20:03:49] [Info] Disconnect hb-api.omnitagjs.com:443
+[2019-12-09 20:03:50] [Info] Connect elb.the-ozone-project.com:443
+[2019-12-09 20:03:50] [Info] Disconnect protected-by.clarium.io:443
+[2019-12-09 20:03:50] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:50] [Info] Connect d.adroll.com:443
+[2019-12-09 20:03:50] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-12-09 20:03:50] [Info] Disconnect assets.guim.co.uk:443
+[2019-12-09 20:03:50] [Info] Disconnect ib.adnxs.com:443
+[2019-12-09 20:03:50] [Info] Disconnect protected-by.clarium.io:443
+[2019-12-09 20:03:50] [Info] Connect acdn.adnxs.com:443
+[2019-12-09 20:03:50] [Info] Disconnect rtb2.doubleverify.com:443
+[2019-12-09 20:03:50] [Info] Connect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:50] [Info] Disconnect hbopenbid.pubmatic.com:443
+[2019-12-09 20:03:50] [Info] Connect sin3-ib.adnxs.com:443
+[2019-12-09 20:03:50] [Info] Connect a.tribalfusion.com:443
+[2019-12-09 20:03:50] [Info] Connect sync.mathtag.com:443
+[2019-12-09 20:03:50] [Info] Connect dsum-sec.casalemedia.com:443
+[2019-12-09 20:03:50] [Info] Disconnect ads.pubmatic.com:443
+[2019-12-09 20:03:50] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:50] [Info] Connect image6.pubmatic.com:443
+[2019-12-09 20:03:50] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:50] [Info] Connect sync-tm.everesttech.net:443
+[2019-12-09 20:03:50] [Info] Connect x.bidswitch.net:443
+[2019-12-09 20:03:50] [Info] Connect pm.w55c.net:443
+[2019-12-09 20:03:50] [Info] Disconnect elb.the-ozone-project.com:443
+[2019-12-09 20:03:50] [Info] Connect ad.360yield.com:443
+[2019-12-09 20:03:50] [Info] Connect e-jp.cmcd1.com:443
+[2019-12-09 20:03:50] [Info] Connect rtb.openx.net:443
+[2019-12-09 20:03:50] [Info] Connect dmp.brand-display.com:443
+[2019-12-09 20:03:50] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-12-09 20:03:50] [Info] Disconnect u.openx.net:443
+[2019-12-09 20:03:50] [Info] Disconnect secure-dcr.imrworldwide.com:443
+[2019-12-09 20:03:50] [Info] Connect apsoutheast-match.deepintent.com:443
+[2019-12-09 20:03:50] [Info] Connect csync.loopme.me:443
+[2019-12-09 20:03:50] [Info] Connect jp-u.openx.net:443
+[2019-12-09 20:03:50] [Info] Disconnect pixel.mathtag.com:443
+[2019-12-09 20:03:50] [Info] Disconnect jp-u.openx.net:443
+[2019-12-09 20:03:50] [Info] Connect dsum-sec.casalemedia.com:443
+[2019-12-09 20:03:50] [Info] Disconnect api.nextgen.guardianapps.co.uk:443
+[2019-12-09 20:03:50] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2019-12-09 20:03:50] [Info] Connect secure.adnxs.com:443
+[2019-12-09 20:03:50] [Info] Connect cm.adsafety.net:443
+[2019-12-09 20:03:50] [Info] Disconnect sync.mathtag.com:443
+[2019-12-09 20:03:50] [Info] Connect ad.360yield.com:443
+[2019-12-09 20:03:50] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:50] [Info] Connect rtb.openx.net:443
+[2019-12-09 20:03:50] [Info] Direct connect match.adsrvr.org:443
+[2019-12-09 20:03:50] [Info] Connect ads.yahoo.com:443
+[2019-12-09 20:03:50] [Info] Disconnect ads.smartstream.tv:443
+[2019-12-09 20:03:50] [Info] Connect track.adform.net:443
+[2019-12-09 20:03:50] [Info] Disconnect sin3-ib.adnxs.com:443
+[2019-12-09 20:03:50] [Info] Disconnect pixel.mathtag.com:443
+[2019-12-09 20:03:51] [Info] Connect www.redditstatic.com:443
+[2019-12-09 20:03:51] [Info] Disconnect acdn.adnxs.com:443
+[2019-12-09 20:03:51] [Info] Disconnect rtb.openx.net:443
+[2019-12-09 20:03:51] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-12-09 20:03:51] [Info] Disconnect d.adroll.com:443
+[2019-12-09 20:03:51] [Info] Connect ophan.theguardian.com:443
+[2019-12-09 20:03:51] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-12-09 20:03:51] [Info] Connect styles.redditmedia.com:443
+[2019-12-09 20:03:51] [Info] Disconnect rtb2.doubleverify.com:443
+[2019-12-09 20:03:51] [Info] Connect p.adsymptotic.com:443
+[2019-12-09 20:03:51] [Info] Connect acdn.adnxs.com:443
+[2019-12-09 20:03:51] [Info] Connect fra1-ib.adnxs.com:443
+[2019-12-09 20:03:51] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2019-12-09 20:03:51] [Info] Connect c.amazon-adsystem.com:443
+[2019-12-09 20:03:51] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2019-12-09 20:03:51] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2019-12-09 20:03:51] [Info] Connect sync.mathtag.com:443
+[2019-12-09 20:03:51] [Info] Disconnect rtb.openx.net:443
+[2019-12-09 20:03:51] [Info] Disconnect ice.360yield.com:443
+[2019-12-09 20:03:51] [Info] Disconnect e-jp.cmcd1.com:443
+[2019-12-09 20:03:51] [Info] Connect dmp.brand-display.com:443
+[2019-12-09 20:03:51] [Info] Connect x.bidswitch.net:443
+[2019-12-09 20:03:51] [Info] Connect pm.w55c.net:443
+[2019-12-09 20:03:51] [Info] Connect tps713.doubleverify.com:443
+[2019-12-09 20:03:51] [Info] Disconnect image6.pubmatic.com:443
+[2019-12-09 20:03:51] [Info] Disconnect tps708.doubleverify.com:443
+[2019-12-09 20:03:51] [Info] Disconnect sg2-bid.adsrvr.org:443
+[2019-12-09 20:03:51] [Info] Disconnect www.redditstatic.com:443
+[2019-12-09 20:03:51] [Info] Connect us-u.openx.net:443
+[2019-12-09 20:03:51] [Info] Disconnect dmp.brand-display.com:443
+[2019-12-09 20:03:51] [Info] Disconnect www.redditmedia.com:443
+[2019-12-09 20:03:51] [Info] Disconnect ad.360yield.com:443
+[2019-12-09 20:03:51] [Info] Disconnect apsoutheast-match.deepintent.com:443
+[2019-12-09 20:03:51] [Info] Connect dps.jp.cinarra.com:443
+[2019-12-09 20:03:51] [Info] Connect hb-api.omnitagjs.com:443
+[2019-12-09 20:03:51] [Info] Disconnect acdn.adnxs.com:443
+[2019-12-09 20:03:51] [Info] Disconnect tps708.doubleverify.com:443
+[2019-12-09 20:03:51] [Info] Connect sync.mathtag.com:443
+[2019-12-09 20:03:51] [Info] Connect sync-dsp.ad-m.asia:443
+[2019-12-09 20:03:51] [Info] Connect sync.1rx.io:443
+[2019-12-09 20:03:51] [Info] Connect bh.contextweb.com:443
+[2019-12-09 20:03:51] [Info] Connect trc.taboola.com:443
+[2019-12-09 20:03:52] [Info] Disconnect dmp.brand-display.com:443
+[2019-12-09 20:03:52] [Info] Disconnect csync.loopme.me:443
+[2019-12-09 20:03:52] [Info] Disconnect secure.adnxs.com:443
+[2019-12-09 20:03:52] [Info] Disconnect cm.adsafety.net:443
+[2019-12-09 20:03:52] [Info] Connect tps713.doubleverify.com:443
+[2019-12-09 20:03:52] [Info] Connect ds.uncn.jp:443
+[2019-12-09 20:03:57] [Info] Disconnect tps713.doubleverify.com:443
+[2019-12-09 20:03:57] [Info] Disconnect tps713.doubleverify.com:443
+[2019-12-09 20:04:02] [Info] Disconnect us-u.openx.net:443
+[2019-12-09 20:04:02] [Info] Disconnect sync.widespace.com:443
+[2019-12-09 20:04:02] [Info] Disconnect sync.1rx.io:443
+[2019-12-09 20:04:02] [Info] Disconnect fra1-ib.adnxs.com:443
+[2019-12-09 20:04:06] [Info] Disconnect p.adsymptotic.com:443
