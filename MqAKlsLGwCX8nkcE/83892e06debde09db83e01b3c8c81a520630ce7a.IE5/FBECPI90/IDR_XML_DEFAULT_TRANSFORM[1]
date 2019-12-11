@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:eew="http://schemas.microsoft.com/energy/2007" version="1.0">
+    <xsl:output method="html" indent="yes"/>
+
+    <xsl:template match="/">
+        <html>
+            <head>
+                <style>
+                    
+                    body {
+                        font-family: 宋体, Verdana, Arial, Helvetica, sans-serif; 
+                        font-size: x-small; 
+                        margin-right:1.5em}
+
+                    .log-entry {margin-bottom:1em;}
+
+                    
+                    .error-log-entry {background-color:#ffcccc; padding:4pt;}
+
+                    
+                    .warning-log-entry {background-color:#ffffc6; padding:4pt;}
+
+                    
+                    .info-log-entry {background-color:#ffffff; padding:4pt;}
+
+                    
+                    .log-entry-header {font-weight:bold;}
+
+                    .log-entry-content {margin: 2pt; }
+
+                    
+                    .expander  {
+                        display: block; 
+                        left: 0em; 
+                        width: 1em; 
+                        float: left; 
+                        color:red; 
+                        font-family:宋体; 
+                        font-weight:bold; 
+                        text-decoration:none;
+                        padding-top:6pt;}
+
+                    td {
+                        font-size:x-small;
+                        font-weight: bold;
+                    }
+
+                    .log-entry-content table {
+;
+                    }
+
+                    .log-entry-content td {
+                        padding: 3pt;
+                    }
+
+                    .detail-name {
+                        font-weight:normal;
+                    }
+
+                <!-- error log entry --><!-- warning log entry --><!-- info log entry --><!-- log entry header line --><!-- button - contains +/-/nbsp --></style>
+            </head>
+            <body class="st">
+                <xsl:apply-templates/>
+            </body>
+
+        </html>
+    </xsl:template>
+
+    <!-- Template for the root of the report -->
+    <xsl:template match="eew:EnergyReport">
+        <h2>电源效率诊断报告</h2>
+       <table>
+           <tr>
+               <td class="detail-name">计算机名</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='300b5d9f-434e-45b0-80d2-4bd55b168ef3']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">扫描时间</td>
+               <td>
+                   <xsl:value-of select="eew:ReportInformation/eew:ScanTime"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">扫描持续时间</td>
+               <td>
+                   <xsl:value-of select="substring-before(substring-after(eew:ReportInformation/eew:ScanDuration, 'PT'), 'S')"/> 秒
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">系统制造商</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='a49d84bf-a8c7-4c26-8f54-eefccac2f084']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">系统产品名称</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='ceddb6e2-626c-4efe-ae58-c7b241693909']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">BIOS 日期</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='b586008a-e3ca-457a-8f48-30fe0de3facf']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">BIOS 版本</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='c85bfef6-93e7-4f1a-a35d-20655dab095d']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">OS 内部版本</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='31dc51fd-a872-4546-a54f-ae0da74cdf9f']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">平台角色</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='8838163d-e78c-4858-9432-9b034382e9f6']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">接通电源</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='9fd5343d-fcb1-42ac-9566-8a8e8409a60b']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">进程计数</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='d64ab9ff-6978-4c37-ac17-9494347b673b']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">线程计数</td>
+               <td>
+                   <xsl:value-of select="eew:Troubleshooter[@guid='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[@guid='3d053cee-9926-4ac0-a4e1-63ab80c63af0']/eew:Details/eew:Detail[@guid='375cbf0f-61d5-42b8-a0fd-16c198b7b32f']/eew:Value"/>
+               </td>
+           </tr>
+           <tr>
+               <td class="detail-name">报告 GUID</td>
+               <td>
+                   {<xsl:value-of select="eew:ReportInformation/eew:ReportGuid"/>}
+               </td>
+           </tr>
+       </table>
+       <h3>分析结果</h3>
+       <!-- select all error log entries, then warning, then informational. -->
+       <h4>错误</h4>
+       <xsl:apply-templates select="eew:Troubleshooter[@guid!='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[eew:Severity='Error']"/>
+       <h4>警告</h4>
+       <xsl:apply-templates select="eew:Troubleshooter[@guid!='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[eew:Severity='Warning']"/>
+       <h4>信息</h4>
+       <xsl:apply-templates select="eew:Troubleshooter[@guid!='c78b52e3-9cd7-4802-979c-57ca1283dafa']/eew:AnalysisLog/eew:LogEntry[eew:Severity='Informational']"/>
+    </xsl:template>
+
+    <!-- Template for individual analysis log table entries. --> 
+    <xsl:template name="GenericLogEntry" match="eew:LogEntry">
+        <div class="log-entry">
+            <div>
+                <xsl:attribute name="class">
+                    <xsl:choose>
+                        <xsl:when test="eew:Severity='Error'">
+                            error-log-entry
+                        </xsl:when>
+                        <xsl:when test="eew:Severity='Warning'">
+                            warning-log-entry
+                        </xsl:when>
+                        <xsl:otherwise>
+                            info-log-entry
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:attribute>
+                <div class="log-entry-header">
+                    <xsl:value-of select="../../eew:Name"/>:<xsl:value-of select="eew:Name"/>
+                </div>
+                <div class="log-entry-content">
+                    <div class="log-entry-description">
+                        <xsl:value-of select="eew:Description"/>
+                    </div>
+                    <xsl:apply-templates/>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </xsl:template>
+
+    <!-- Template for special-cased log entries -->
+
+    <!-- Timer Resolution Stack -->
+    <xsl:template match="eew:LogEntry[@guid='f84b604c-98bb-47ba-a789-75cde4996a87']">
+        <!-- Apply the generic template if an outstanding timer request exists with the same PID. Otherwise, show nothing. -->
+        <xsl:variable name="TimerStackProcessId" select="eew:Details/eew:Detail[@guid='01ee080e-57de-431b-8016-8354fb450f1b']/eew:Value"/>
+        <xsl:if test="parent::*/eew:LogEntry[@guid='436954b1-cc2d-4740-9f97-23d1f2c1210e']/eew:Details/eew:Detail[@guid='0ce5eb38-d897-4749-8210-242e77718472'][eew:Value = $TimerStackProcessId]">
+            <xsl:call-template name="GenericLogEntry"/>
+        </xsl:if>
+    </xsl:template>
+
+    <!-- Template for generic analysis log table details. --> 
+    
+    <!-- Template for analysis log detail list. --> 
+    <xsl:template match="eew:Details">
+        <table>
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+
+    <!-- Template for generic analysis log table details. --> 
+    <xsl:template match="eew:Detail">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:value-of select="eew:Name"/>
+                </span>
+            </td>
+            <td> 
+                <xsl:value-of select="eew:Value"/>
+            </td>
+        </tr>
+    </xsl:template>
+
+    <!-- Template for special-cased analysis log details -->
+
+    <!-- Power Plan Personality.Personality -->
+    <xsl:template match="eew:Detail[(@guid='fc84c527-7c74-42c0-a8c5-cc6e1a60b961') or (@guid='b7f44371-d8a6-423d-8417-f2a9a1028f7f')]">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:value-of select="eew:Name"/>
+                </span>
+            </td>
+            <td> 
+                <xsl:choose>
+                    <xsl:when test="eew:Value=0">
+                        节能
+                    </xsl:when>
+                    <xsl:when test="eew:Value=1">
+                        高性能
+                    </xsl:when>
+                    <xsl:when test="eew:Value=2">
+                        平衡
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="eew:Value"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </td>
+        </tr>
+    </xsl:template>
+
+    <!-- Active Power Plan.Plan GUID -->
+    <xsl:template match="eew:Detail[@guid='abf6ffeb-c575-4031-87b6-0ef12a886fee']">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    计划名
+                </span>
+            </td>
+            <td>
+                <xsl:choose>
+                    <xsl:when test="eew:Value='{a1841308-3541-4fab-bc81-f71556f20b4a}'">
+                        OEM 节能
+                    </xsl:when>
+                    <xsl:when test="eew:Value='{8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c}'">
+                        OEM 高性能
+                    </xsl:when>
+                    <xsl:when test="eew:Value='{381b4222-f694-41f0-9685-ff5bb260df2e}'">
+                        OEM 平衡
+                    </xsl:when>
+                    <xsl:otherwise>
+                        自定义
+                    </xsl:otherwise>
+                </xsl:choose>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:value-of select="eew:Name"/>
+                </span>
+            </td>
+            <td> 
+                <xsl:value-of select="eew:Value"/>
+            </td>
+        </tr>
+    </xsl:template>
+
+    <!-- Video Quality.Setting -->
+    <xsl:template match="eew:Detail[(@guid='23438ed2-d803-4d94-8f66-cfbf094797e7') or (@guid='dc3d55c6-2f0c-4397-bdc4-d2d9a3148969')]">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:value-of select="eew:Name"/>
+                </span>
+            </td>
+            <td> 
+                <xsl:choose>
+                    <xsl:when test="eew:Value=0">
+                        优化视频质量
+                    </xsl:when>
+                    <xsl:when test="eew:Value=1">
+                        在视频质量和节能之间寻求平衡
+                    </xsl:when>
+                    <xsl:when test="eew:Value=2">
+                        优化节能
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="eew:Value"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </td>
+        </tr>
+    </xsl:template>
+
+
+    <!-- Battery Information.Manufacture Date -->
+    <xsl:template match="eew:Detail[@guid='1b9d5465-63f4-4c5d-8259-93effc455084']">
+        <xsl:if test="eew:Value!=''">
+            <tr>
+                <td>
+                    <span class="detail-name">
+                        <xsl:value-of select="eew:Name"/>
+                    </span>
+                </td>
+                <td> 
+                    <xsl:value-of select="eew:Value"/>
+                </td>
+            </tr>
+        </xsl:if>
+    </xsl:template>
+
+    <!-- Battery Information.Cycle Count -->
+    <xsl:template match="eew:Detail[@guid='17d29a01-f010-4f66-bf60-c121e35cfc2b']">
+        <xsl:if test="eew:Value!=''">
+            <tr>
+                <td>
+                    <span class="detail-name">
+                        <xsl:value-of select="eew:Name"/>
+                    </span>
+                </td>
+                <td> 
+                    <xsl:value-of select="eew:Value"/>
+                </td>
+            </tr>
+        </xsl:if>
+    </xsl:template>
+
+    <!-- CPU Utilization.Module -->
+    <xsl:template match="eew:Detail[@guid='75067548-7814-4e65-9533-13239cd92ecd']">
+        <tr>
+            <td> 
+                <xsl:value-of select="eew:Value"/>
+            </td>
+            <td> 
+                <xsl:value-of select="following-sibling::node()/eew:Value"/>
+            </td>
+        </tr>
+    </xsl:template>
+
+    <!-- CPU Utilization.Average Module Utilization -->
+    <xsl:template match="eew:Detail[@guid='acd9c46d-e149-489a-876d-e1707ed15134']">
+    </xsl:template>
+
+    <!-- CPU Utilization.Average Utilization -->
+    <xsl:template match="eew:Detail[@guid='9c0f7e30-e8b5-43dd-8c3e-c45bf3101fba']">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:value-of select="eew:Name"/>
+                </span>
+            </td>
+            <td> 
+                <xsl:value-of select="eew:Value"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span class="detail-name">
+                    模块
+                </span>
+            </td>
+            <td> 
+                <span class="detail-name">
+                    模块的平均利用率(%)
+                </span>
+            </td>
+        </tr>
+    </xsl:template>
+
+    <!-- Timer Stack.Module -->
+    <xsl:template match="eew:Detail[@guid='c3b5315f-40d8-47a4-ab56-70a237a8f78f']">
+        <tr>
+            <td>
+                <span class="detail-name">
+                    <xsl:if test="preceding-sibling::eew:Detail[1]/attribute::guid!='c3b5315f-40d8-47a4-ab56-70a237a8f78f'">
+                        调用模块堆栈
+                    </xsl:if>
+                </span>
+            </td>
+            <td> 
+                <xsl:if test="eew:Value=''">
+                    未知模块
+                </xsl:if>
+                <xsl:value-of select="eew:Value"/>
+            </td>
+        </tr>
+    </xsl:template>
+
+
+
+    <!-- Template to suppress ouputing raw node content. --> 
+    <xsl:template match="*" priority="-9">
+    </xsl:template>
+
+</xsl:stylesheet>
