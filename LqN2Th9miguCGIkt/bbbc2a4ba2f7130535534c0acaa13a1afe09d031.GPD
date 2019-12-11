@@ -1,0 +1,37 @@
+*% ***********************************************************
+*%   Canon Inkjet Fax Driver for Microsoft Windows
+*%   Version 1.00
+*%   Copyright CANON INC. 2008 All Rights Reserved
+*% ***********************************************************
+
+
+*%
+*% FILE NAME:
+*%        cnhf_324.gpd
+*%
+
+
+*%---------------------------------------------
+*% include GPD files which define Value Macros
+*%---------------------------------------------
+
+*Include: "STDNAMES.GPD"
+
+
+
+*%---------------------------------------------
+*% global entries
+*%---------------------------------------------
+
+*GPDFileName: "CNHF_324.GPD"
+*ModelName: "Canon Inkjet MX300 FAX"
+
+
+
+*%---------------------------------------------
+*% Common Description
+*%---------------------------------------------
+
+*Include: "CNHF1CMN.GPD"
+
+
