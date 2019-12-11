@@ -1,0 +1,253 @@
+*% GPD file for Epson Color Inkjet Plug-in
+*% Copyright (c) 2004 Seiko Epson Corporation
+*Include: "EP0NGXUM.GPD"
+
+*% Constraints for MediaType option. 
+*InvalidCombination: LIST(ColorMode.EPOPT_COLORMODE_MONOCHROME, MediaType.DURABriteInkGlossyPhotoPaper)
+*InvalidCombination: LIST(ColorMode.EPOPT_COLORMODE_MONOCHROME, MediaType.PhotographicGlossy)
+*InvalidCombination: LIST(ColorMode.EPOPT_COLORMODE_MONOCHROME, MediaType.TRANSPARENCY)
+
+*Feature: MediaType
+{
+	*rcNameID: =MEDIA_TYPE_DISPLAY
+	*UpdateQualityMacro?: TRUE
+	*DefaultOption: STANDARD
+	*Option: STANDARD
+	{
+		*rcNameID: =EPN_RCID_PLAIN_PAPER_AND_BRIGHT_WHITE_PAPER
+		EXTERN_GLOBAL: *ChangeColorModeOnDoc?: TRUE
+	}
+	*Option: MattePaperHeavyWeight
+	{
+		*rcNameID: =EPN_RCID_MATTE_PAPER_HEAVYWEIGHT
+		*OptionID: 271
+		EXTERN_GLOBAL: *ChangeColorModeOnDoc?: TRUE
+	}
+	*Option: DURABriteInkGlossyPhotoPaper
+	{
+		*rcNameID: =EPN_RCID_DURABRITE_INK_GLOSSY_PHOTO_PAPER
+		*OptionID: 323
+		EXTERN_GLOBAL: *ChangeColorModeOnDoc?: FALSE
+	}
+	*Option: PhotographicGlossy
+	{
+		*rcNameID: =EPN_RCID_GLOSSY_PHOTO_PAPER
+		*OptionID: 315
+		*PrintSchemaKeywordMap: "PhotographicGlossy"
+		EXTERN_GLOBAL: *ChangeColorModeOnDoc?: FALSE
+	}
+	*Option: TRANSPARENCY
+	{
+		*rcNameID: =EPN_RCID_INKJET_TRANSPARENCIES
+		EXTERN_GLOBAL: *ChangeColorModeOnDoc?: FALSE
+	}
+}
+
+*Feature: PaperSize
+{
+	*rcNameID: =PAPER_SIZE_DISPLAY
+	*DefaultOption: LETTER
+
+	*Option: A4
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(578400, 825000)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: B5
+	{	
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(499200, 711800)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: A5
+	{	
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(402800, 578400)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: LETTER
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(595200, 775200)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: LEGAL
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(595200,  991200)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: IndexCard8x10
+	{
+		*rcNameID: =EPN_RCID_INDEXCARD_8X10IN
+		*PageDimensions:  PAIR(576000, 720000)
+		*PrintableArea:   PAIR(559200, 703200)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: NorthAmerica4x6
+	{
+		*rcNameID: =EPN_RCID_4X6FULL
+		*PrintSchemaKeywordMap: "NorthAmerica4x6"
+		*PageDimensions:  PAIR(288000, 432000)
+		*PrintableArea:   PAIR(271200, 415200)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: ENV_10
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(280200, 619000)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: ENV_DL
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(295000, 558600)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: A6
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(280800, 402800)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+	*Option: STATEMENT
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(379200, 595200)
+		*PrintableOrigin: PAIR(8400, 8400)
+	}
+
+	*Option: Photo11x14
+	{
+		*rcNameID: =EPN_RCID_11X14IN
+		*PageDimensions:  PAIR(792000, 1008000)
+		*PrintableArea:   PAIR(775200,  991200)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	*Option: TABLOID
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(775200, 1207200)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	*Option: A3
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(825000, 1173800)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	*Option: OtherMetricA3Plus
+	{
+		*rcNameID: =EPN_RCID_A3NOBI
+		*PrintSchemaKeywordMap: "OtherMetricA3Plus"
+		*PageDimensions:  PAIR(932600, 1369200)
+		*PrintableArea:   PAIR(915800, 1352400)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	*Option: A2
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(1173800, 1667000)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	*Option: CSHEET
+	{
+		*rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+		*PrintableArea:   PAIR(1207200, 1567200)
+		*PrintableOrigin: PAIR(8400, 8400)
+		*Constraints: PageScaling.None
+	}
+	
+	*Option: CUSTOMSIZE
+	{
+		*rcNameID: =EPN_RCID_USER_DEFINED
+		*MinSize: PAIR(252200, 252200)
+		*MaxSize: PAIR(612000, 3168000)
+		*MaxPrintableWidth: 595200
+		*MinLeftMargin: 8400
+		*CenterPrintable?: FALSE
+		
+		*TopMargin:    8400
+		*BottomMargin: 8400
+
+		*switch: Orientation
+		{
+			*case: PORTRAIT
+			{
+				*CustCursorOriginY:     %d{8400}
+			}
+			*case: LANDSCAPE_CC270
+			{
+				*CustCursorOriginY:     %d{PhysPaperLength - 8400}
+			}
+		}
+		*CustCursorOriginX:     %d{8400}
+		*CustPrintableOriginX:  %d{8400}
+		*CustPrintableOriginY:  %d{8400}
+
+		*CustPrintableSizeX: %d{ min(595200, PhysPaperWidth - 16800) }
+		*CustPrintableSizeY: %d{ PhysPaperLength - 16800 }
+	}
+}
+
+*Feature: PagePhysicalMediaSize
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_PHYPAPERSIZE
+	*DefaultOption: NorthAmericaLetter
+
+	*Option: ISOA4
+	{
+		*rcNameID: =EPN_RCID_A4
+	}
+	*Option: JISB5
+	{	
+		*rcNameID: =EPN_RCID_B5
+	}
+	*Option: ISOA5
+	{	
+		*rcNameID: =EPN_RCID_A5
+	}
+	*Option: NorthAmericaLetter
+	{
+		*rcNameID: =EPN_RCID_LETTER
+	}
+	*Option: NorthAmericaLegal
+	{
+		*rcNameID: =EPN_RCID_LEGAL
+	}
+	*Option: IndexCard8x10
+	{
+		*rcNameID: =EPN_RCID_INDEXCARD_8X10IN
+	}
+	*Option: NorthAmerica4x6
+	{
+		*rcNameID: =EPN_RCID_4X6FULL
+	}
+	*Option: NorthAmericaNumber10Envelope
+	{
+		*rcNameID: =EPN_RCID_ENVELOPE_10
+	}
+	*Option: ISODLEnvelope
+	{
+		*rcNameID: =EPN_RCID_ENVELOPE_DL
+	}
+	*Option: ISOA6
+	{
+		*rcNameID: =EPN_RCID_A6
+	}
+	*Option: NorthAmericaStatement
+	{
+		*rcNameID: =EPN_RCID_STATEMENT
+	}
+	*Option: CustomMediaSize
+	{
+		*rcNameID: =EPN_RCID_USER_DEFINED
+	}
+}
