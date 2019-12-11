@@ -1,0 +1,194 @@
+*% ***********************************************************
+*%   Canon Inkjet Fax Driver for Microsoft Windows
+*%   Version 1.00
+*%   Copyright CANON INC. 2008 All Rights Reserved
+*% ***********************************************************
+
+
+*%
+*% FILE NAME:
+*%        cnhf1cmn.gpd
+*%
+
+
+*%---------------------------------------------
+*% include GPD files which define Value Macros
+*%---------------------------------------------
+
+*Include: "STDNAMES.GPD"
+
+
+
+*%---------------------------------------------
+*% global entries
+*%---------------------------------------------
+
+*GPDSpecVersion: "1.0"
+*GPDFileVersion: "1.0"
+*CodePage: 1252
+*ResourceDLL: "UNIRES.DLL"
+*MasterUnits: PAIR(200, 200)
+*PrinterType: SERIAL
+
+
+
+*%---------------------------------------------
+*% Features and Options
+*%---------------------------------------------
+
+
+*%
+*% orientation : optional
+*%
+
+*Feature: Orientation
+{
+  *rcNameID: =ORIENTATION_DISPLAY
+  *DefaultOption: PORTRAIT
+  *Option: PORTRAIT
+  {
+    *rcNameID: =PORTRAIT_DISPLAY
+  }
+  *Option: LANDSCAPE_CC270
+  {
+    *rcNameID: =LANDSCAPE_DISPLAY
+  }
+}
+
+
+*%
+*% resolution : required
+*%
+
+*Feature: Resolution
+{
+  *rcNameID: =RESOLUTION_DISPLAY
+  *DefaultOption: Normal
+
+  *Option: Normal
+  {
+    *Name: "200 x 200" =DOTS_PER_INCH
+    *SpotDiameter: 0
+    *DPI: PAIR(200, 200)
+    *TextDPI: PAIR(200, 200)
+
+    *% To use FilterGraphics
+    *PinsPerPhysPass: 1
+  }
+}
+
+
+*%
+*% input bin : required
+*%
+
+*Feature: InputBin
+{
+  *rcNameID: =PAPER_SOURCE_DISPLAY
+  *DefaultOption: AUTO
+
+  *Option: AUTO
+  {
+    *rcNameID: =AUTO_DISPLAY
+  }
+}
+
+
+*%
+*% halftone : optional
+*%
+
+*Feature: Halftone
+{
+  *rcNameID: =HALFTONING_DISPLAY
+  *DefaultOption: HT_PATSIZE_6x6_M
+
+  *Option: HT_PATSIZE_6x6_M
+  {
+    *rcNameID: =HT_DITHER6X6_DISPLAY
+  }
+}
+
+
+*%
+*% grayscale : optional
+*%
+
+*Feature: ColorMode
+{
+  *rcNameID: =COLOR_PRINTING_MODE_DISPLAY
+  *DefaultOption: Mono
+
+  *Option: Mono
+  {
+    *rcNameID: =MONO_DISPLAY
+    *Color?: FALSE
+    *DrvBPP: 1
+    *DevBPP: 1
+    *DevNumOfPlanes: 1
+    *RasterMode: DIRECT
+  }
+}
+
+
+*%
+*% paper size : required
+*%
+
+*Feature: PaperSize
+{
+  *rcNameID: =PAPER_SIZE_DISPLAY
+  *DefaultOption: LETTER
+
+  *Option: LETTER
+  {
+    *rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+    *PrintableArea: PAIR(1700, 2200)
+    *PrintableOrigin: PAIR(0, 0)
+  }
+
+  *Option: LEGAL
+  {
+    *rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+    *PrintableArea: PAIR(1700, 2800)
+    *PrintableOrigin: PAIR(0, 0)
+  }
+
+  *Option: A4
+  {
+    *rcNameID: =RCID_DMPAPER_SYSTEM_NAME
+    *PrintableArea: PAIR(1653, 2338)
+    *PrintableOrigin: PAIR(0, 0)
+  }
+}
+
+
+
+*%---------------------------------------------
+*% command
+*%---------------------------------------------
+
+*%
+*% cursor control
+*%
+
+*Command: CmdFF { *Cmd : "" }
+
+*% These definitions are not actually used for printing - only for documentation purpose.
+*Command: CmdCR { *Cmd : "" }
+*Command: CmdLF { *Cmd : "" }
+
+
+*%
+*% raster data emission
+*%
+
+*% These definitions are not actually used for printing - only for documentation purpose.
+*Command: CmdSendBlockData { *Cmd: "" }
+*Command: CmdSendYellowData { *Cmd: "" }
+*Command: CmdSendMagentaData { *Cmd: "" }
+*Command: CmdSendCyanData { *Cmd: "" }
+*Command: CmdSendBlackData { *Cmd: "" }
+
+
+
