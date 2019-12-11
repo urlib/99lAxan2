@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WicaRun>
+  <RunInfos>
+    <RunInfo Name="CoreAppraiserComponents" UseAcmEngine="TRUE" Context="Telemetry">
+      <Component TypeIdentifier="Metadata" Type="Metadata">
+        <Property Name="Category" Value="Application" />
+        <Property Name="Category" Value="Device" />
+        <Property Name="Category" Value="System" />
+        <Property Name="UpgradeMode" Value="Swap" />
+        <Property Name="Architecture" Value="PropertyBagKeyword:SystemInfoArchitecture" />
+      </Component>
+      <Component Type="Custom" TypeIdentifier="CacheComponent">
+        <Property Name="CacheName" Value="AppDevInv" />
+        <Property Name="CacheVersion" Value="10" />
+        <Property Name="CreateCacheRunInfoName" Value="CreateInvCache" />
+        <Property Name="UseCacheRunInfoName" Value="UseInvCache" />
+        <Property Name="MaxCacheAge" Value="10" />
+        <Property Name="ForceCacheInvalidate" Value="[MT_CacheForceInvalidate]" />
+      </Component>
+      <Component Type="Inventory" TypeIdentifier="InventorySystem">
+        <Property Name="NxWorkingDirectory" Value="%WINDIR%\system32\appraiser\" />
+      </Component>
+      <Component Type="Inventory" TypeIdentifier="InventoryMatchingInfo" />
+      <Component Type="Inventory" TypeIdentifier="InventoryInbox" NonFatalInit="TRUE" />
+      <Component Type="Inventory" TypeIdentifier="InventoryGeneralTel">
+        <Property Name="GeneralTelInventoryXmlOutputPath" Value="%WINDIR%\AppCompat\Appraiser\Telemetry\Appraiser_GenTelOutput.xml" />
+        <Property Name="GeneralTelInventoryRunGeneralTel" Value="[MT_GeneralTelInventoryRunGeneralTel]" />
+        <Property Name="GeneralTelInventorySendUtc" Value="[MT_GeneralTelInventorySendUtc]" />
+        <Property Name="GeneralTelInventoryTelemetryAllowed" Value="[MT_GeneralTelInventoryTelemetryAllowed]" />
+        <Property Name="GeneralTelInventoryPickUpMarkers" Value="[MT_GeneralTelInventoryPickUpMarkers]" />
+        <Property Name="GeneralTelInventoryOnesettingsNotAllowed" Value="[MT_GeneralTelInventoryOnesettingsNotAllowed]" />
+      </Component>
+      <Component Type="Inventory" TypeIdentifier="InventorySummary" NonFatalInit="TRUE" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceCit" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbBios">
+        <Property Name="BiosSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbDevice">
+        <Property Name="DeviceSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbDriver">
+        <Property Name="DriverSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbExe">
+        <Property Name="ExeSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbMachine">
+        <Property Name="MachineSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbOsUpgrade">
+        <Property Name="OsUpgradeSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbMatchingInfo">
+        <Property Name="MatchingInfoSdbFilePath" Value="%WINDIR%\system32\appraiser\appraiser.sdb" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceBootCritical" NonFatalInit="TRUE" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceActiveNetwork" NonFatalInit="TRUE" />
+      <Component Type="DataSource" SpecificIdentifier="HwCompat Data Source RS1" TypeIdentifier="DatasourceHwCompat" NonFatalInit="TRUE">
+        <Property Name="HwCompatIncludeFile" Value="%WINDIR%\system32\appraiser\hwcompat_RS1.txt" />
+        <Property Name="HwCompatExcludeFile" Value="%WINDIR%\system32\appraiser\hwexclude_RS1.txt" />
+        <Property Name="HwCompatWuIncludeFile" Value="%WINDIR%\system32\appraiser\wucompat.txt" />
+        <Property Name="TargetVersion" Value="RS1" />
+      </Component>
+      <Component Type="DataSource" TypeIdentifier="DatasourceAntiMalware" NonFatalInit="TRUE" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceSdbExeInbox" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceWuDriver" NonFatalInit="TRUE" ReplacementRunInfo="[MT_WuDriverReplacementBackup]" />
+      <Component Type="DataSource" TypeIdentifier="DatasourceCosDevice" NonFatalInit="TRUE" />
+      <Component Type="DecisionMakerFile" TypeIdentifier="DecisionMakerFile" />
+      <Component Type="DecisionAggregator" TypeIdentifier="AggregatorDeviceContainer" NonFatalInit="TRUE" />
+      <Component Type="DecisionAggregator" TypeIdentifier="AggregatorDeviceDriver" NonFatalInit="TRUE" />
+      <Component Type="DecisionAggregator" TypeIdentifier="AggregatorAppFile" NonFatalInit="TRUE" />
+      <Component Type="DecisionAggregator" TypeIdentifier="AggregatorFileInfo" NonFatalInit="TRUE" />
+      <Component Type="DecisionAggregator" TypeIdentifier="SdbCopier" NonFatalInit="TRUE" />
+      <Component Type="DecisionAggregator" TypeIdentifier="AggregatorSummary" NonFatalInit="TRUE" />
+      <Component Type="Outputter" TypeIdentifier="OutputTelemetry" NonFatalInit="TRUE">
+        <Property Name="TelemetryOutputAssetTypeTable" Value="LT_AssetTypesForSetupApplicationScan" />
+        <Property Name="TelemetryOutputAssetTypeTable" Value="LT_AssetTypesForSetupDeviceScan" />
+        <Property Name="TelemetryOutputAssetTypeTable" Value="LT_AssetTypesForSetupSystemScan" />
+        <Property Name="TelemetryOutputDumpPath" Value="%WINDIR%\AppCompat\Appraiser\Telemetry\APPRAISER_UtcOutput.xml" />
+        <Property Name="TelemetryOutputSendOffline" Value="[MT_TelemetryOutputterSendOffline]" />
+        <Property Name="TelemetryOutputSendFullSync" Value="[MT_TelemetryOutputterSendFullSync]" />
+        <Property Name="TelemetryOutputPreviousBinaryPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_TelemetryBaseline.bin" />
+      </Component>
+      <Component Type="Outputter" TypeIdentifier="OutputBinary" NonFatalInit="TRUE">
+        <Property Name="OutputBinTier" Value="Inventory" />
+        <Property Name="OutputBinTier" Value="DataSource" />
+        <Property Name="OutputBinTier" Value="DecisionMaker" />
+        <Property Name="OutputBinTier" Value="DecisionAggregator" />
+        <Property Name="OutputBinFilePath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_TelemetryBaseline.bin" />
+        <Property Name="OutputBinFilterName" Value="DT_ANY_ALL_IncludeInTelemetry" />
+        <Property Name="OutputBinAllowRunOffline" Value="[MT_TelemetryOutputterSendOffline]" />
+      </Component>
+      <Component Type="Custom" TypeIdentifier="TelemetryComponent">
+        <Property Name="RunInfoToTableMapping" Value="MT_TelemetryVariableComponents" />
+      </Component>
+    </RunInfo>
+    <RunInfo Name="AuxOutputters" ReferenceOnly="TRUE">
+      <Component Type="Outputter" TypeIdentifier="OutputRegistryMarker">
+        <Property Name="OutputRegistryMarkerGeneralTelMarkersChecksumValidityRequired" Value="TRUE" />
+        <Property Name="OutputRegistryMarkerGeneralTelMarkersMaxAgeDays" Value="45" />
+        <Property Name="OutputRegistryMarkerGeneralTelMarkersMinVersion" Value="1" />
+        <Property Name="OutputRegistryMarkerGeneralTelMarkersMustBeNew" Value="FALSE" />
+        <Property Name="OutputRegistryMarkerOldAppraiserMarkersChecksumValidityRequired" Value="TRUE" />
+        <Property Name="OutputRegistryMarkerOldAppraiserMarkersMaxAgeDays" Value="45" />
+        <Property Name="OutputRegistryMarkerOldAppraiserMarkersMinVersion" Value="1" />
+        <Property Name="OutputRegistryMarkerNewAppraiserMarkersRequiredComponentSuccess" Value="LT_OnlineRunSupportedByCos" />
+        <Property Name="OutputRegistryMarkerNewAppraiserMarkersRequiredComponentSuccess" Value="LT_OnlineRunSupportedByWu" />
+        <Property Name="OutputRegistryMarkerIndicatorTransactionTelemetryAllowed" Value="[MT_RegistryMarkerOutputterTelemetryAllowed]" />
+        <Property Name="OutputRegistryMarkerSendFullSync" Value="[MT_RegistryMarkerOutputterSendFullSync]" />
+      </Component>
+      <Component Type="Outputter" TypeIdentifier="OutputIcon">
+        <Property Name="IconOutputPath" Value="%WINDIR%\AppCompat\UA" />
+      </Component>
+      <Component Type="Outputter" TypeIdentifier="OutputAuxJson">
+        <Property Name="OutputAuxJsonFilePath" Value="%WINDIR%\AppCompat\UA\Appraiser.JSON" />
+        <Property Name="OutputAuxJsonImagePath" Value="%WINDIR%\AppCompat\UA" />
+      </Component>
+    </RunInfo>
+    <RunInfo Name="EverythingOutputter" ReferenceOnly="TRUE">
+      <Component Type="Outputter" TypeIdentifier="OutputEverything">
+        <Property Name="OutputFilePath" Value="%WINDIR%\AppCompat\Appraiser\Telemetry\APPRAISER_EverythingOutput.xml" />
+      </Component>
+    </RunInfo>
+    <RunInfo Name="CreateInvCache" ReferenceOnly="TRUE">
+      <Component Type="Inventory" TypeIdentifier="InventoryApplication">
+        <Property Name="ApplicationInventoryXmlPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_ApplicationInventory.xml" />
+        <Property Name="ApplicationInventoryXmlPathForFile" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_FileInventory.xml" />
+        <Property Name="ApplicationInventoryShouldRun" Value="TRUE" />
+        <Property Name="ApplicationInventoryShouldRunFile" Value="TRUE" />
+        <Property Name="ApplicationInventoryFullRun" Value="TRUE" />
+      </Component>
+      <Component Type="Inventory" TypeIdentifier="InventoryDevice">
+        <Property Name="DeviceInventoryXmlPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_DeviceInventory.xml" />
+        <Property Name="DeviceInventoryShouldRunDevice" Value="TRUE" />
+        <Property Name="DeviceInventoryShouldRunSystem" Value="TRUE" />
+      </Component>
+    </RunInfo>
+    <RunInfo Name="UseInvCache" ReferenceOnly="TRUE">
+      <Component Type="Inventory" TypeIdentifier="InventoryApplication">
+        <Property Name="ApplicationInventoryXmlPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_ApplicationInventory.xml" />
+        <Property Name="ApplicationInventoryXmlPathForFile" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_FileInventory.xml" />
+        <Property Name="ApplicationInventoryShouldRun" Value="FALSE" />
+        <Property Name="ApplicationInventoryShouldRunFile" Value="FALSE" />
+        <Property Name="ApplicationInventoryFullRun" Value="TRUE" />
+      </Component>
+      <Component Type="Inventory" TypeIdentifier="InventoryDevice">
+        <Property Name="DeviceInventoryXmlPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_DeviceInventory.xml" />
+        <Property Name="DeviceInventoryShouldRunDevice" Value="FALSE" />
+        <Property Name="DeviceInventoryShouldRunSystem" Value="FALSE" />
+      </Component>
+    </RunInfo>
+    <RunInfo Name="BlankRunInfo" ReferenceOnly="TRUE" />
+  </RunInfos>
+</WicaRun>
