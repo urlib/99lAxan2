@@ -1,0 +1,59 @@
+*% EP0NGX00.GPD
+*% Copyright (c) 2004 Seiko Epson Corporation
+*% Global Include file for Epson Color Inkjet Plug-ins
+*MasterUnits: PAIR(72000, 72000)
+*ResourceDLL: "EP0NGR00.DLL"
+*Include: "STDNAMES.GPD"
+*Include: "EP0NGN00.GPD"
+*PrinterType: SERIAL
+*PrintSchemaPrivateNamespaceURI: "http://schema.epson.net/printschema/inkjet/v100"
+
+*Feature: Orientation
+{
+	*rcNameID: =ORIENTATION_DISPLAY
+	*DefaultOption: PORTRAIT
+	*Option: PORTRAIT
+	{
+		*rcNameID: =PORTRAIT_DISPLAY
+	}
+	*Option: LANDSCAPE_CC270
+	{
+		*rcNameID: =LANDSCAPE_DISPLAY
+	}
+}
+
+*Feature: ColorMode
+{
+	*rcNameID: =COLOR_PRINTING_MODE_DISPLAY
+	*UpdateQualityMacro?: TRUE
+	*DefaultOption: EPOPT_COLORMODE_COLOR
+	*Option: EPOPT_COLORMODE_MONOCHROME
+	{
+		*rcNameID: =EPN_RCID_MONOCHROME
+		*DevNumOfPlanes: 0
+		*DevBPP: 0
+		*DrvBPP: 8
+		*Color?: FALSE
+		*IPCallbackID: 2
+	}
+	*Option: EPOPT_COLORMODE_COLOR
+	{
+		*rcNameID: =EPN_RCID_COLOR
+		*DevNumOfPlanes: 0
+		*DevBPP: 0
+		*DrvBPP: 24
+		*Color?: TRUE
+		*IPCallbackID: 1
+	}
+}
+
+*RotateCoordinate?: FALSE
+*RotateRaster?: FALSE
+*RotateFont?: FALSE
+*TextCaps: LIST(TC_RA_ABLE)
+*CursorXAfterCR: AT_PRINTABLE_X_ORIGIN
+*OptimizeLeftBound?: FALSE
+*Command: CmdCR { *Cmd : "<0D>" }
+*Command: CmdLF { *Cmd : "<0A>" }
+*Command: CmdFF { *Cmd : "<0D0C>" }
+*Command: CmdSendBlockData { *Cmd : "<1B>.<00><05><05><01>" %l{RasterDataWidthInBytes * 8} }
