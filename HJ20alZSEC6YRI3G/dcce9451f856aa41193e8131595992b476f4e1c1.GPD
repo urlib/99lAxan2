@@ -1,0 +1,567 @@
+*% GPD file for Epson Color Inkjet Plug-in
+*% Copyright (c) 2004 Seiko Epson Corporation
+*OutputOrderReversed?: FALSE
+*Include: "EP0NGX00.GPD"
+
+*% *PreAnalysisOptions: 8
+
+*Feature: PagePreset
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_PRESET
+	*DefaultOption: EPOPT_PRESET_TEXT
+	*PrintSchemaKeywordMap: "PageOutputQuality"
+	
+	*Option: EPOPT_PRESET_ECONOMY
+	{
+		*rcNameID: =EPN_RCID_ECONOMY_PRESET
+		*PrintSchemaKeywordMap: "Draft"
+	}
+	*Option: EPOPT_PRESET_TEXT
+	{
+		*rcNameID: =EPN_RCID_TEXT_PRESET
+		*PrintSchemaKeywordMap: "Text"
+	}
+	*Option: EPOPT_PRESET_WORDPRO
+	{
+		*rcNameID: =EPN_RCID_WORDPRO_PRESET
+		*PrintSchemaKeywordMap: "Normal"
+	}
+	*Option: EPOPT_PRESET_PHOTO
+	{
+		*rcNameID: =EPN_RCID_PHOTO_PRESET
+		*PrintSchemaKeywordMap: "High"
+	}
+	*Option: EPOPT_PRESET_ADPHOTO
+	{
+		*rcNameID: =EPN_RCID_ADPHOTO_PRESET
+		*PrintSchemaKeywordMap: "Photographic"
+	}
+}
+
+*Feature: PagePresetType
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_PRESET_TYPE
+	*DefaultOption: EPOPT_PRESETTYPE_DRVXAUTO
+	*Option: EPOPT_PRESETTYPE_CURRENT
+	{
+		*rcNameID: =EPN_RCID_PRESETTYPE_CURRENT
+	}
+	*Option: EPOPT_PRESETTYPE_DRVXAUTO
+	{
+		*rcNameID: =EPN_RCID_PRESETTYPE_DRVXAUTO
+	}
+}
+
+*Feature: Resolution
+{
+	*rcNameID: =RESOLUTION_DISPLAY
+	*UpdateQualityMacro?: TRUE
+	*DefaultOption: EPOPT_INPUTRES_360DPI
+	*Option: EPOPT_INPUTRES_180DPI
+	{
+		*rcNameID: =EPN_RCID_INRES_180
+		*DPI: PAIR(180, 180)
+		*TextDPI: PAIR(180, 180)
+		*MinStripBlankPixels: 1
+		*SpotDiameter: 120
+	}
+	*Option: EPOPT_INPUTRES_360DPI
+	{
+		*rcNameID: =EPN_RCID_INRES_360
+		*DPI: PAIR(360, 360)
+		*TextDPI: PAIR(360, 360)
+		*MinStripBlankPixels: 1
+		*SpotDiameter: 160
+	}
+	*Option: EPOPT_INPUTRES_720DPI
+	{
+		*rcNameID: =EPN_RCID_INRES_720
+		*DPI: PAIR(720, 720)
+		*TextDPI: PAIR(720, 720)
+		*MinStripBlankPixels: 1
+		*SpotDiameter: 180	
+	}
+}
+
+*Feature: PagePrintQuality
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_PRINT_QUALITY
+	*DefaultOption: EPOPT_RESOLUTION_RPM_NORMAL
+	*Option: EPOPT_RESOLUTION_RPM_ECONOMY
+	{
+		*rcNameID: =EPN_RCID_RPM_ECONOMY
+	}
+	*Option: EPOPT_RESOLUTION_RPM_NORMAL
+	{
+		*rcNameID: =EPN_RCID_RPM_NORMAL
+	}
+	*Option: EPOPT_RESOLUTION_RPM_FINE
+	{
+		*rcNameID: =EPN_RCID_RPM_FINE
+	}
+	*Option: EPOPT_RESOLUTION_RPM_PHOTO
+	{
+		*rcNameID: =EPN_RCID_RPM_PHOTO
+	}
+	*Option: EPOPT_RESOLUTION_RPM_BESTPHOTO
+	{
+		*rcNameID: =EPN_RCID_RPM_BESTPHOTO
+	}
+	*Option: EPOPT_RESOLUTION_RPM_RPM
+	{
+		*rcNameID: =EPN_RCID_RPM_RPM
+	}
+}
+
+*Feature: InputBin
+{
+	*rcNameID: =PAPER_SOURCE_DISPLAY
+	*DefaultOption: AUTO
+	*Option: AUTO
+	{
+		*rcNameID: =EPN_RCID_INPUTBIN_SHEET
+	}
+}
+
+*Feature: PageHighSpeed
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_HIGH_SPEED
+	*DefaultOption: ON
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*Feature: PageMicroWeave
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_MICROWEAVE
+	*DefaultOption: EPOPT_MICROWEAVE_OFF
+	*Option: EPOPT_MICROWEAVE_OFF
+	{
+		*rcNameID: =EPN_RCID_OFF
+	}
+	*Option: EPOPT_MICROWEAVE_ON
+	{
+		*rcNameID: =EPN_RCID_ON
+	}
+	*Option: EPOPT_MICROWEAVE_SUPER_ON
+	{
+		*rcNameID: =EPN_RCID_SUPER
+	}
+}
+
+*Feature: PageFastFeed
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_FASTFEED
+	*DefaultOption: OFF
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*Feature: PageHalftoneMethod
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_HALFTONE
+	*DefaultOption: EPOPT_HALFTONE_ED
+	*Option: EPOPT_HALFTONE_ED
+	{
+		*rcNameID: =EPN_RCID_ERROR_DIFFUSION
+	}
+}
+
+*Feature: PageMirrorImage
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_MIRROR_IMAGE
+	*ConflictPriority: 70
+	*DefaultOption: OFF
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*Feature: PageMinimizeMargins
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_MIN_MARGINS
+	*DefaultOption: ON
+	*Option: ON
+	{
+		*rcNameID: =EPN_RCID_ON
+	}
+}
+
+*Feature: PageCenterPrinting
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_CENTER_PRINT
+	*DefaultOption: OFF
+	*Option: OFF
+	{
+		*rcNameID: =EPN_RCID_OFF
+	}
+}
+
+*Feature: PageColorAdjustmentMode
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_COLOR_ADJUST
+	*DefaultOption: ByDriver
+	*Option: ByDriver
+	{
+		*rcNameID: =EPN_RCID_COLOR_CONTROLS
+		EXTERN_GLOBAL: *PreAnalysisOptions: 0
+	}
+	*Option: AutoPhotoFine
+	{
+		*rcNameID: =EPN_RCID_PHOTO_ENHANCE
+		*switch: PageScaling
+		{
+			*case: None
+			{
+				EXTERN_GLOBAL: *PreAnalysisOptions: 8
+			}
+			*case: CustomSquare
+			{
+				EXTERN_GLOBAL: *PreAnalysisOptions: 0
+			}
+			*case: FitPage
+			{
+				EXTERN_GLOBAL: *PreAnalysisOptions: 0
+			}
+		}
+	}
+	*Option: None
+	{
+		*rcNameID: =EPN_RCID_NONE_ADJUST
+		EXTERN_GLOBAL: *PreAnalysisOptions: 0
+	}
+}
+
+*Feature: PageGamma
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_GAMMA
+	*DefaultOption: EPOPT_GAMMA_18
+	*Option: EPOPT_GAMMA_15
+	{
+		*rcNameID: =EPN_RCID_GAMMA_15
+	}
+	*Option: EPOPT_GAMMA_18
+	{
+		*rcNameID: =EPN_RCID_GAMMA_18
+	}
+	*Option: EPOPT_GAMMA_22
+	{
+		*rcNameID: =EPN_RCID_GAMMA_22
+	}
+}
+
+*Feature: PageColorIntent
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_COLOR_INTENT
+	*DefaultOption: EPOPT_INTENT_EPSON_VIVID
+
+	*Option: EPOPT_INTENT_AUTO
+	{
+		*rcNameID: =EPN_RCID_INTENT_AUTO
+	}
+	*Option: EPOPT_INTENT_STD
+	{
+		*rcNameID: =EPN_RCID_INTENT_EPSON_STD
+	}
+	*Option: EPOPT_INTENT_GRAPH
+	{
+		*rcNameID: =EPN_RCID_INTENT_GRAPH
+	}
+	*Option: EPOPT_INTENT_NONE
+	{
+		*rcNameID: =EPN_RCID_INTENT_NOCOLORADJ
+	}
+	*Option: EPOPT_INTENT_EPSON_VIVID
+	{
+		*rcNameID: =EPN_RCID_INTENT_EPSON_VIVID
+	}
+	*Option: EPOPT_INTENT_AUTO2
+	{
+		*rcNameID: =EPN_RCID_INTENT_AUTO2
+	}
+	*Option: EPOPT_INTENT_ERGB
+	{
+		*rcNameID: =EPN_RCID_INTENT_ERGB
+	}
+}
+
+*%
+*%	Range type custom features.
+*%
+
+*Feature: PageBrightness
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_BRIGHTNESS
+
+	*InsertBlock: =EpnIntensityOptionParams
+}
+
+*Feature: PageContrast
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_CONTRAST
+
+	*InsertBlock: =EpnIntensityOptionParams	
+}
+
+*Feature: PageSaturation
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_SATURATION
+
+	*InsertBlock: =EpnIntensityOptionParams
+}
+
+*Feature: PageCyan
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_CYAN
+
+	*InsertBlock: =EpnIntensityOptionParams
+}
+
+*Feature: PageMagenta
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_MAGENTA
+
+	*InsertBlock: =EpnIntensityOptionParams
+}
+
+*Feature: PageYellow
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_YELLOW
+	
+	*InsertBlock: =EpnIntensityOptionParams
+}
+
+*%
+*% APF for EPSON Printer Driver.
+*%
+
+*Feature: PageAPFTone
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_TONE
+	*DefaultOption: Contra
+	*Option: Normal
+	{
+		*rcNameID: =EPN_RCID_TONE_NORMAL
+	}
+	*Option: Contra
+	{
+		*rcNameID: =EPN_RCID_TONE_CONTRAST
+	}
+	*Option: Vivid
+	{
+		*rcNameID: =EPN_RCID_TONE_VIVID
+	}
+	*Option: Sepia
+	{
+		*rcNameID: =EPN_RCID_TONE_SEPIA
+	}
+	*Option: Mono
+	{
+		*rcNameID: =EPN_RCID_TONE_MONO
+	}
+	*Option: Nothing
+	{
+		*rcNameID: =EPN_RCID_TONE_NONE
+	}
+}
+
+*Feature: PageAPFEffect
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_EFFECT
+	*DefaultOption: Sharpness
+	*Option: Sharpness
+	{
+		*rcNameID: =EPN_RCID_EFFECT_SHARP
+	}
+	*Option: SoftFocus
+	{
+		*rcNameID: =EPN_RCID_EFFECT_SOFT
+	}
+	*Option: Canvas
+	{
+		*rcNameID: =EPN_RCID_EFFECT_CANVAS
+	}
+	*Option: PaperCraft
+	{
+		*rcNameID: =EPN_RCID_EFFECT_PARCHMENT
+	}
+	*Option: Nothing
+	{
+		*rcNameID: =EPN_RCID_EFFECT_NONE
+	}
+}
+
+*Feature: PageAPFEffectLevel
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_EFFECT_LEVEL
+	*DefaultOption: Middle
+	*Option: Soft
+	{
+		*rcNameID: =EPN_RCID_EFFECTLVL_SOFT
+	}
+	*Option: Middle
+	{
+		*rcNameID: =EPN_RCID_EFFECTLVL_MID
+	}
+	*Option: Hard
+	{
+		*rcNameID: =EPN_RCID_EFFECTLVL_HARD
+	}
+}
+
+*Feature: PageAPFDCamera
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_DC_CORRECTION
+	*DefaultOption: OFF
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*Feature: PageAPFMemory
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_MEMORY
+	*DefaultOption: Mem256
+	*Option: Unlimited
+	{
+		*rcNameID: =EPN_RCID_APFMEM_UNLIMITED
+	}
+	*Option: Mem128
+	{
+		*rcNameID: =EPN_RCID_APFMEM_128
+	}
+	*Option: Mem256
+	{
+		*rcNameID: =EPN_RCID_APFMEM_256
+	}
+	*Option: Mem512
+	{
+		*rcNameID: =EPN_RCID_APFMEM_512
+	}
+}
+
+*Feature: PageBlankPage
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_BNLKPAGE_DETECT
+	*DefaultOption: OFF
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*Feature: PageMonochrome
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_APF_MONO_DETECT
+	*DefaultOption: ON
+
+	*InsertBlock: =EpnBooleanOptionParams
+}
+
+*%
+*% Layout Feature for EPSON Print Processor. 
+*% * PagePhysicalMediaSize is located EP0NGW??.GPD and EP0NGN??.GPD.
+*%
+
+*Feature: PageScaling
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_ZOOM
+	*DefaultOption: None
+	*PrintSchemaKeywordMap: "PageScaling"
+
+	*Option: None
+	{
+		*rcNameID: =EPN_RCID_OFF
+		*PrintSchemaKeywordMap: "None"
+	}
+	*Option: CustomSquare
+	{
+		*rcNameID: =EPN_RCID_FREE_ZOOM
+		*PrintSchemaKeywordMap: "CustomSquare"
+		*Constraints: PageColorAdjustmentMode.AutoPhotoFine
+	}
+	*Option: FitPage
+	{
+		*rcNameID: =EPN_RCID_FIT_PAGE
+		*Constraints: PageColorAdjustmentMode.AutoPhotoFine
+	}
+}
+
+*Feature: JobNupSequence
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_NUP_SEQUENCE
+	*DefaultOption: RightBottom
+
+	*Option: RightBottom
+	{
+		*rcNameID: =EPN_RCID_SEQ_TOPLEFTTORIGHT
+	}
+	*Option: LeftBottom
+	{
+		*rcNameID: =EPN_RCID_SEQ_TOPRIGHTTOLEFT
+	}
+	*Option: BottomRight
+	{
+		*rcNameID: =EPN_RCID_SEQ_TOPLEFTTOBOTTOM
+	}
+	*Option: BottomLeft
+	{
+		*rcNameID: =EPN_RCID_SEQ_TOPRIGHTTOBOTTOM
+	}
+}
+
+*Feature: JobNupBorderPrint
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_BORDER_PRINT
+	*DefaultOption: OFF
+
+	*Option: OFF
+	{
+		*rcNameID: =EPN_RCID_OFF
+	}
+	*Option: ON
+	{
+		*rcNameID: =EPN_RCID_ON
+	}
+}
+
+*Feature: PageRotate180
+{
+	*FeatureType: DOC_PROPERTY
+	*rcNameID: =EPN_RCID_ROTATE180
+	*DefaultOption: OFF
+
+	*Option: OFF
+	{
+		*rcNameID: =EPN_RCID_OFF
+	}
+	*Option: ON
+	{
+		*rcNameID: =EPN_RCID_ON
+	}
+}
